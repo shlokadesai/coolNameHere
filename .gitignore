@@ -1,0 +1,8 @@
+
+*.pyc
+
+*.sublime-workspace
+
+server/migrations/**
+
+*.sqlite
