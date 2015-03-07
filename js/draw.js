@@ -10,7 +10,10 @@ var map = new Datamap({
         highlightFillColor: '#4F75B4', // dark blue
         popupTemplate: function(geo, data) {
             //console.log(geo);
-            return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong></div>';
+            if (mapData[geo.id])
+                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : '+mapData[geo.id]+'</div>';
+            else
+                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : N/A</div>';
         }
     }
 });
@@ -21,7 +24,7 @@ function updateMap(year) {
         for (i = 0; i < data.length; i++) {
             //console.log(data[i]);
             dataset[data[i].ID] = colorScale(data[i].CPI);
-            mapData[data[i].ID] = data.CPI;
+            mapData[data[i].ID] = data[i].CPI;
             console.log(dataset);
         }
         console.log(dataset + "!");
