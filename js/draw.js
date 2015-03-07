@@ -1,1 +1,5 @@
-var map = new Datamap({element: document.getElementById('map')});
+var map = new Datamap({
+    scope: 'world',
+    element: document.getElementById('map'),
+});
+
