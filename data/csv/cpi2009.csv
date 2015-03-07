@@ -1,181 +1,181 @@
-Rank,Country,CPI,Year,
-1,New Zealand,9.4,2009,
-2,Denmark,9.3,2009,
-3,Singapore,9.2,2009,
-3,Sweden,9.2,2009,
-5,Switzerland,9,2009,
-6,Finland,8.9,2009,
-6,Netherlands,8.9,2009,
-8,Australia,8.7,2009,
-8,Canada,8.7,2009,
-8,Iceland,8.7,2009,
-11,Norway,8.6,2009,
-12,Hong Kong,8.2,2009,
-12,Luxembourg,8.2,2009,
-14,Germany,8,2009,
-14,Ireland,8,2009,
-16,Austria,7.9,2009,
-17,Japan,7.7,2009,
-17,United Kingdom,7.7,2009,
-19,United States,7.5,2009,
-20,Barbados,7.4,2009,
-21,Belgium,7.1,2009,
-22,Qatar,7,2009,
-22,Saint Lucia,7,2009,
-24,France,6.9,2009,
-25,Chile,6.7,2009,
-25,Uruguay,6.7,2009,
-27,Cyprus,6.6,2009,
-27,Estonia,6.6,2009,
-27,Slovenia,6.6,2009,
-30,United Arab Emirates,6.5,2009,
-31,Saint Vincent and the Grenadines,6.4,2009,
-32,Israel,6.1,2009,
-32,Spain,6.1,2009,
-34,Dominica,5.9,2009,
-35,Portugal,5.8,2009,
-35,Puerto Rico,5.8,2009,
-37,Botswana,5.6,2009,
-37,Taiwan,5.6,2009,
-39,Brunei Darussalam,5.5,2009,
-39,Oman,5.5,2009,
-39,Korea (South),5.5,2009,
-42,Mauritius,5.4,2009,
-43,Costa Rica,5.3,2009,
-43,Macau,5.3,2009,
-45,Malta,5.2,2009,
-46,Bahrain,5.1,2009,
-46,Cape Verde,5.1,2009,
-46,Hungary,5.1,2009,
-49,Bhutan,5,2009,
-49,Jordan,5,2009,
-49,Poland,5,2009,
-52,Czech Republic,4.9,2009,
-52,Lithuania,4.9,2009,
-54,Seychelles,4.8,2009,
-55,South Africa,4.7,2009,
-56,Latvia,4.5,2009,
-56,Malaysia,4.5,2009,
-56,Namibia,4.5,2009,
-56,Samoa,4.5,2009,
-56,Slovakia,4.5,2009,
-61,Cuba,4.4,2009,
-61,Turkey,4.4,2009,
-63,Italy,4.3,2009,
-63,Saudi Arabia,4.3,2009,
-65,Tunisia,4.2,2009,
-66,Croatia,4.1,2009,
-66,Georgia,4.1,2009,
-66,Kuwait,4.1,2009,
-69,Ghana,3.9,2009,
-69,Montenegro,3.9,2009,
-71,Bulgaria,3.8,2009,
-71,FYR Macedonia,3.8,2009,
-71,Greece,3.8,2009,
-71,Romania,3.8,2009,
-75,Brazil,3.7,2009,
-75,Colombia,3.7,2009,
-75,Peru,3.7,2009,
-75,Suriname,3.7,2009,
-79,Burkina Faso,3.6,2009,
-79,China,3.6,2009,
-79,Swaziland,3.6,2009,
-79,Trinidad and Tobago,3.6,2009,
-83,Serbia,3.5,2009,
-84,El Salvador,3.4,2009,
-84,Guatemala,3.4,2009,
-84,India,3.4,2009,
-84,Panama,3.4,2009,
-84,Thailand,3.4,2009,
-89,Lesotho,3.3,2009,
-89,Malawi,3.3,2009,
-89,Mexico,3.3,2009,
-89,Moldova,3.3,2009,
-89,Morocco,3.3,2009,
-89,Rwanda,3.3,2009,
-95,Albania,3.2,2009,
-95,Vanuatu,3.2,2009,
-97,Liberia,3.1,2009,
-97,Sri Lanka,3.1,2009,
-99,Bosnia and Herzegovina,3,2009,
-99,Dominican Republic,3,2009,
-99,Jamaica,3,2009,
-99,Madagascar,3,2009,
-99,Senegal,3,2009,
-99,Tonga,3,2009,
-99,Zambia,3,2009,
-106,Argentina,2.9,2009,
-106,Benin,2.9,2009,
-106,Gabon,2.9,2009,
-106,Gambia,2.9,2009,
-106,Niger,2.9,2009,
-111,Algeria,2.8,2009,
-111,Djibouti,2.8,2009,
-111,Egypt,2.8,2009,
-111,Indonesia,2.8,2009,
-111,Kiribati,2.8,2009,
-111,Mali,2.8,2009,
-111,Sao Tome and Principe,2.8,2009,
-111,Solomon Islands,2.8,2009,
-111,Togo,2.8,2009,
-120,Armenia,2.7,2009,
-120,Bolivia,2.7,2009,
-120,Ethiopia,2.7,2009,
-120,Kazakhstan,2.7,2009,
-120,Mongolia,2.7,2009,
-120,Vietnam,2.7,2009,
-126,Eritrea,2.6,2009,
-126,Guyana,2.6,2009,
-126,Syria,2.6,2009,
-126,Tanzania,2.6,2009,
-130,Honduras,2.5,2009,
-130,Lebanon,2.5,2009,
-130,Libya,2.5,2009,
-130,Maldives,2.5,2009,
-130,Mauritania,2.5,2009,
-130,Mozambique,2.5,2009,
-130,Nicaragua,2.5,2009,
-130,Nigeria,2.5,2009,
-130,Uganda,2.5,2009,
-139,Bangladesh,2.4,2009,
-139,Belarus,2.4,2009,
-139,Pakistan,2.4,2009,
-139,Philippines,2.4,2009,
-143,Azerbaijan,2.3,2009,
-143,Comoros,2.3,2009,
-143,Nepal,2.3,2009,
-146,Cameroon,2.2,2009,
-146,Ecuador,2.2,2009,
-146,Kenya,2.2,2009,
-146,Russia,2.2,2009,
-146,Sierra Leone,2.2,2009,
-146,Timor-Leste,2.2,2009,
-146,Ukraine,2.2,2009,
-146,Zimbabwe,2.2,2009,
-154,Côte d´Ivoire,2.1,2009,
-154,Papua New Guinea,2.1,2009,
-154,Paraguay,2.1,2009,
-154,Yemen,2.1,2009,
-158,Cambodia,2,2009,
-158,Central African Republic,2,2009,
-158,Laos,2,2009,
-158,Tajikistan,2,2009,
-162,Angola,1.9,2009,
-162,Congo Brazzaville,1.9,2009,
-162,Democratic Republic of Congo,1.9,2009,
-162,Guinea-Bissau,1.9,2009,
-162,Kyrgyzstan,1.9,2009,
-162,Venezuela,1.9,2009,
-168,Burundi,1.8,2009,
-168,Equatorial Guinea,1.8,2009,
-168,Guinea,1.8,2009,
-168,Haiti,1.8,2009,
-168,Iran,1.8,2009,
-168,Turkmenistan,1.8,2009,
-174,Uzbekistan,1.7,2009,
-175,Chad,1.6,,
-176,Iraq,1.5,,
-176,Sudan,1.5,,
-178,Myanmar,1.4,,
-179,Afghanistan,1.3,,
-180,Somalia,1.1,,
+Rank,Country,CPI,Year,X,ID
+1,New Zealand,9.4,2009,NA,NZL
+2,Denmark,9.3,2009,NA,DNK
+3,Singapore,9.2,2009,NA,SGP
+3,Sweden,9.2,2009,NA,SWE
+5,Switzerland,9,2009,NA,CHE
+6,Finland,8.9,2009,NA,FIN
+6,Netherlands,8.9,2009,NA,NLD
+8,Australia,8.7,2009,NA,AUS
+8,Canada,8.7,2009,NA,CAN
+8,Iceland,8.7,2009,NA,ISL
+11,Norway,8.6,2009,NA,NOR
+12,Hong Kong,8.2,2009,NA,HKG
+12,Luxembourg,8.2,2009,NA,LUX
+14,Germany,8,2009,NA,DEU
+14,Ireland,8,2009,NA,IRL
+16,Austria,7.9,2009,NA,AUT
+17,Japan,7.7,2009,NA,JPN
+17,United Kingdom,7.7,2009,NA,GBR
+19,United States,7.5,2009,NA,USA
+20,Barbados,7.4,2009,NA,BRB
+21,Belgium,7.1,2009,NA,BEL
+22,Qatar,7,2009,NA,QAT
+22,Saint Lucia,7,2009,NA,LCA
+24,France,6.9,2009,NA,FRA
+25,Chile,6.7,2009,NA,CHL
+25,Uruguay,6.7,2009,NA,URY
+27,Cyprus,6.6,2009,NA,CYP
+27,Estonia,6.6,2009,NA,EST
+27,Slovenia,6.6,2009,NA,SVN
+30,United Arab Emirates,6.5,2009,NA,ARE
+31,Saint Vincent and the Grenadines,6.4,2009,NA,VCT
+32,Israel,6.1,2009,NA,ISR
+32,Spain,6.1,2009,NA,ESP
+34,Dominica,5.9,2009,NA,DMA
+35,Portugal,5.8,2009,NA,PRT
+35,Puerto Rico,5.8,2009,NA,PRI
+37,Botswana,5.6,2009,NA,BWA
+37,Taiwan,5.6,2009,NA,TWN
+39,Brunei Darussalam,5.5,2009,NA,BRN
+39,Oman,5.5,2009,NA,OMN
+39,Korea (South),5.5,2009,NA,KOR
+42,Mauritius,5.4,2009,NA,MUS
+43,Costa Rica,5.3,2009,NA,CRI
+43,Macau,5.3,2009,NA,MAC
+45,Malta,5.2,2009,NA,MLT
+46,Bahrain,5.1,2009,NA,BHR
+46,Cape Verde,5.1,2009,NA,CPV
+46,Hungary,5.1,2009,NA,HUN
+49,Bhutan,5,2009,NA,BTN
+49,Jordan,5,2009,NA,JOR
+49,Poland,5,2009,NA,POL
+52,Czech Republic,4.9,2009,NA,CZE
+52,Lithuania,4.9,2009,NA,LTU
+54,Seychelles,4.8,2009,NA,SYC
+55,South Africa,4.7,2009,NA,ZAF
+56,Latvia,4.5,2009,NA,LVA
+56,Malaysia,4.5,2009,NA,MYS
+56,Namibia,4.5,2009,NA,NAM
+56,Samoa,4.5,2009,NA,WSM
+56,Slovakia,4.5,2009,NA,SVK
+61,Cuba,4.4,2009,NA,CUB
+61,Turkey,4.4,2009,NA,TUR
+63,Italy,4.3,2009,NA,ITA
+63,Saudi Arabia,4.3,2009,NA,SAU
+65,Tunisia,4.2,2009,NA,TUN
+66,Croatia,4.1,2009,NA,HRV
+66,Georgia,4.1,2009,NA,GEO
+66,Kuwait,4.1,2009,NA,KWT
+69,Ghana,3.9,2009,NA,GHA
+69,Montenegro,3.9,2009,NA,MNE
+71,Bulgaria,3.8,2009,NA,BGR
+71,FYR Macedonia,3.8,2009,NA,MKD
+71,Greece,3.8,2009,NA,GRC
+71,Romania,3.8,2009,NA,ROU
+75,Brazil,3.7,2009,NA,BRA
+75,Colombia,3.7,2009,NA,COL
+75,Peru,3.7,2009,NA,PER
+75,Suriname,3.7,2009,NA,SUR
+79,Burkina Faso,3.6,2009,NA,BFA
+79,China,3.6,2009,NA,CHN
+79,Swaziland,3.6,2009,NA,SWZ
+79,Trinidad and Tobago,3.6,2009,NA,TTO
+83,Serbia,3.5,2009,NA,SRB
+84,El Salvador,3.4,2009,NA,SLV
+84,Guatemala,3.4,2009,NA,GTM
+84,India,3.4,2009,NA,IND
+84,Panama,3.4,2009,NA,PAN
+84,Thailand,3.4,2009,NA,THA
+89,Lesotho,3.3,2009,NA,LSO
+89,Malawi,3.3,2009,NA,MWI
+89,Mexico,3.3,2009,NA,MEX
+89,Moldova,3.3,2009,NA,MDA
+89,Morocco,3.3,2009,NA,MAR
+89,Rwanda,3.3,2009,NA,RWA
+95,Albania,3.2,2009,NA,ALB
+95,Vanuatu,3.2,2009,NA,VUT
+97,Liberia,3.1,2009,NA,LBR
+97,Sri Lanka,3.1,2009,NA,LKA
+99,Bosnia and Herzegovina,3,2009,NA,BIH
+99,Dominican Republic,3,2009,NA,DOM
+99,Jamaica,3,2009,NA,JAM
+99,Madagascar,3,2009,NA,MDG
+99,Senegal,3,2009,NA,SEN
+99,Tonga,3,2009,NA,TON
+99,Zambia,3,2009,NA,ZMB
+106,Argentina,2.9,2009,NA,ARG
+106,Benin,2.9,2009,NA,BEN
+106,Gabon,2.9,2009,NA,GAB
+106,Gambia,2.9,2009,NA,GMB
+106,Niger,2.9,2009,NA,NER
+111,Algeria,2.8,2009,NA,DZA
+111,Djibouti,2.8,2009,NA,DJI
+111,Egypt,2.8,2009,NA,EGY
+111,Indonesia,2.8,2009,NA,IDN
+111,Kiribati,2.8,2009,NA,KIR
+111,Mali,2.8,2009,NA,MLI
+111,Sao Tome and Principe,2.8,2009,NA,STP
+111,Solomon Islands,2.8,2009,NA,SLB
+111,Togo,2.8,2009,NA,TGO
+120,Armenia,2.7,2009,NA,ARM
+120,Bolivia,2.7,2009,NA,BOL
+120,Ethiopia,2.7,2009,NA,ETH
+120,Kazakhstan,2.7,2009,NA,KAZ
+120,Mongolia,2.7,2009,NA,MNG
+120,Vietnam,2.7,2009,NA,VNM
+126,Eritrea,2.6,2009,NA,ERI
+126,Guyana,2.6,2009,NA,GUY
+126,Syria,2.6,2009,NA,SYR
+126,Tanzania,2.6,2009,NA,TZA
+130,Honduras,2.5,2009,NA,HND
+130,Lebanon,2.5,2009,NA,LBN
+130,Libya,2.5,2009,NA,LBY
+130,Maldives,2.5,2009,NA,MDV
+130,Mauritania,2.5,2009,NA,MRT
+130,Mozambique,2.5,2009,NA,MOZ
+130,Nicaragua,2.5,2009,NA,NIC
+130,Nigeria,2.5,2009,NA,NGA
+130,Uganda,2.5,2009,NA,UGA
+139,Bangladesh,2.4,2009,NA,BGD
+139,Belarus,2.4,2009,NA,BLR
+139,Pakistan,2.4,2009,NA,PAK
+139,Philippines,2.4,2009,NA,PHL
+143,Azerbaijan,2.3,2009,NA,AZE
+143,Comoros,2.3,2009,NA,COM
+143,Nepal,2.3,2009,NA,NPL
+146,Cameroon,2.2,2009,NA,CMR
+146,Ecuador,2.2,2009,NA,ECU
+146,Kenya,2.2,2009,NA,KEN
+146,Russia,2.2,2009,NA,RUS
+146,Sierra Leone,2.2,2009,NA,SLE
+146,Timor-Leste,2.2,2009,NA,TLS
+146,Ukraine,2.2,2009,NA,UKR
+146,Zimbabwe,2.2,2009,NA,ZWE
+154,Côte d´Ivoire,2.1,2009,NA,CIV
+154,Papua New Guinea,2.1,2009,NA,PNG
+154,Paraguay,2.1,2009,NA,PRY
+154,Yemen,2.1,2009,NA,YEM
+158,Cambodia,2,2009,NA,KHM
+158,Central African Republic,2,2009,NA,CAF
+158,Laos,2,2009,NA,LAO
+158,Tajikistan,2,2009,NA,TJK
+162,Angola,1.9,2009,NA,AGO
+162,Congo Brazzaville,1.9,2009,NA,COG
+162,Democratic Republic of Congo,1.9,2009,NA,COD
+162,Guinea-Bissau,1.9,2009,NA,GNB
+162,Kyrgyzstan,1.9,2009,NA,KGZ
+162,Venezuela,1.9,2009,NA,VEN
+168,Burundi,1.8,2009,NA,BDI
+168,Equatorial Guinea,1.8,2009,NA,GNQ
+168,Guinea,1.8,2009,NA,GIN
+168,Haiti,1.8,2009,NA,HTI
+168,Iran,1.8,2009,NA,IRN
+168,Turkmenistan,1.8,2009,NA,TKM
+174,Uzbekistan,1.7,2009,NA,UZB
+175,Chad,1.6,NA,NA,TCD
+176,Iraq,1.5,NA,NA,IRQ
+176,Sudan,1.5,NA,NA,SDN
+178,Myanmar,1.4,NA,NA,MMR
+179,Afghanistan,1.3,NA,NA,AFG
+180,Somalia,1.1,NA,NA,SOM

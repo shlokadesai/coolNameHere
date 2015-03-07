@@ -1,160 +1,160 @@
-Rank,Country,CPI,Year
-1,Iceland,9.7,2005
-2,Finland,9.6,2005
-2,New Zealand,9.6,2005
-4,Denmark,9.5,2005
-5,Singapore,9.4,2005
-6,Sweden,9.2,2005
-7,Switzerland,9.1,2005
-8,Norway,8.9,2005
-9,Australia,8.8,2005
-10,Austria,8.7,2005
-11,Netherlands,8.6,2005
-11,United Kingdom,8.6,2005
-13,Luxembourg,8.5,2005
-14,Canada,8.4,2005
-15,Hong Kong,8.3,2005
-16,Germany,8.2,2005
-17,USA,7.6,2005
-18,France,7.5,2005
-19,Belgium,7.4,2005
-19,Ireland,7.4,2005
-21,Chile,7.3,2005
-21,Japan,7.3,2005
-23,Spain,7,2005
-24,Barbados,6.9,2005
-25,Malta,6.6,2005
-26,Portugal,6.5,2005
-27,Estonia,6.4,2005
-28,Israel,6.3,2005
-28,Oman,6.3,2005
-30,United Arab Emirates,6.2,2005
-31,Slovenia,6.1,2005
-32,Botswana,5.9,2005
-32,Qatar,5.9,2005
-32,Taiwan,5.9,2005
-32,Uruguay,5.9,2005
-36,Bahrain,5.8,2005
-37,Cyprus,5.7,2005
-37,Jordan,5.7,2005
-39,Malaysia,5.1,2005
-40,Hungary,5,2005
-40,Italy,5,2005
-40,South Korea,5,2005
-43,Tunisia,4.9,2005
-44,Lithuania,4.8,2005
-45,Kuwait,4.7,2005
-46,South Africa,4.5,2005
-47,Czech Republic,4.3,2005
-47,Greece,4.3,2005
-47,Namibia,4.3,2005
-47,Slovakia,4.3,2005
-51,Costa Rica,4.2,2005
-51,El Salvador,4.2,2005
-51,Latvia,4.2,2005
-51,Mauritius,4.2,2005
-55,Bulgaria,4,2005
-55,Colombia,4,2005
-55,Fiji,4,2005
-55,Seychelles,4,2005
-59,Cuba,3.8,2005
-59,Thailand,"3,8",2005
-59,Trinidad and Tobago,"3,8",2005
-62,Belize,3.7,2005
-62,Brazil,"3,7",2005
-64,Jamaica,3.6,2005
-65,Ghana,3.5,2005
-65,Mexico,3.5,2005
-65,Panama,3.5,2005
-65,Peru,3.5,2005
-65,Turkey,3.5,2005
-70,Burkina Faso,3.4,2005
-70,Croatia,3.4,2005
-70,Egypt,3.4,2005
-70,Lesotho,3.4,2005
-70,Poland,3.4,2005
-70,Saudi Arabia,3.4,2005
-70,Syria,3.4,2005
-77,Laos,3.3,2005
-78,China,3.2,2005
-78,Morocco,3.2,2005
-78,Senegal,3.2,2005
-78,Sri Lanka,3.2,2005
-78,Suriname,3.2,2005
-83,Lebanon,3.1,2005
-83,Rwanda,3.1,2005
-85,Dominican Republic,3,2005
-85,Mongolia,3,2005
-85,Romania,3,2005
-88,Armenia,2.9,2005
-88,Benin,2.9,2005
-88,Bosnia and Herzegovina,2.9,2005
-88,Gabon,2.9,2005
-88,India,2.9,2005
-88,Iran,2.9,2005
-88,Mali,2.9,2005
-88,Moldova,2.9,2005
-88,Tanzania,2.9,2005
-97,Algeria,2.8,2005
-97,Argentina,2.8,2005
-97,Madagascar,2.8,2005
-97,Malawi,2.8,2005
-97,Mozambique,2.8,2005
-97,Serbia and Montenegro,2.8,2005
-103,Gambia,2.7,2005
-103,Macedonia,2.7,2005
-103,Swaziland,2.7,2005
-103,Yemen,2.7,2005
-107,Belarus,2.6,2005
-107,Eritrea,2.6,2005
-107,Honduras,2.6,2005
-107,Kazakhstan,2.6,2005
-107,Nicaragua,2.6,2005
-107,Palestine,2.6,2005
-107,Ukraine,2.6,2005
-107,Vietnam,2.6,2005
-107,Zambia,2.6,2005
-107,Zimbabwe,2.6,2005
-117,Afghanistan,2.5,2005
-117,Bolivia,2.5,2005
-117,Ecuador,2.5,2005
-117,Guatemala,2.5,2005
-117,Guyana,2.5,2005
-117,Libya,2.5,2005
-117,Nepal,2.5,2005
-117,Philippines,2.5,2005
-117,Uganda,2.5,2005
-126,Albania,2.4,2005
-126,Niger,2.4,2005
-126,Russia,2.4,2005
-126,Sierra Leone,2.4,2005
-130,Burundi,2.3,2005
-130,Cambodia,2.3,2005
-130,"Congo, Republic of",2.3,2005
-130,Georgia,2.3,2005
-130,Kyrgyzstan,2.3,2005
-130,Papua New Guinea,2.3,2005
-130,Venezuela,2.3,2005
-137,Azerbaijan,2.2,2005
-137,Cameroon,2.2,2005
-137,Ethiopia,2.2,2005
-137,Indonesia,2.2,2005
-137,Iraq,2.2,2005
-137,Liberia,2.2,2005
-137,Uzbekistan,2.2,2005
-144,"Congo, Democratic Republic",2.1,2005
-144,Kenya,2.1,2005
-144,Pakistan,2.1,2005
-144,Paraguay,2.1,2005
-144,Somalia,2.1,2005
-144,Sudan,2.1,2005
-144,Tajikistan,2.1,2005
-151,Angola,2,2005
-152,Cote d'Ivoire,1.9,2005
-152,Equatorial Guinea,1.9,2005
-152,Nigeria,1.9,2005
-155,Haiti,1.8,2005
-155,Myanmar,1.8,2005
-155,Turkmenistan,1.8,2005
-158,Bangladesh,1.7,2005
-158,Chad,1.7,2005
+Rank,Country,CPI,Year,ID
+1,Iceland,9.7,2005,ISL
+2,Finland,9.6,2005,FIN
+2,New Zealand,9.6,2005,NZL
+4,Denmark,9.5,2005,DNK
+5,Singapore,9.4,2005,SGP
+6,Sweden,9.2,2005,SWE
+7,Switzerland,9.1,2005,CHE
+8,Norway,8.9,2005,NOR
+9,Australia,8.8,2005,AUS
+10,Austria,8.7,2005,AUT
+11,Netherlands,8.6,2005,NLD
+11,United Kingdom,8.6,2005,GBR
+13,Luxembourg,8.5,2005,LUX
+14,Canada,8.4,2005,CAN
+15,Hong Kong,8.3,2005,HKG
+16,Germany,8.2,2005,DEU
+17,USA,7.6,2005,USA
+18,France,7.5,2005,FRA
+19,Belgium,7.4,2005,BEL
+19,Ireland,7.4,2005,IRL
+21,Chile,7.3,2005,CHL
+21,Japan,7.3,2005,JPN
+23,Spain,7,2005,ESP
+24,Barbados,6.9,2005,BRB
+25,Malta,6.6,2005,MLT
+26,Portugal,6.5,2005,PRT
+27,Estonia,6.4,2005,EST
+28,Israel,6.3,2005,ISR
+28,Oman,6.3,2005,OMN
+30,United Arab Emirates,6.2,2005,ARE
+31,Slovenia,6.1,2005,SVN
+32,Botswana,5.9,2005,BWA
+32,Qatar,5.9,2005,QAT
+32,Taiwan,5.9,2005,TWN
+32,Uruguay,5.9,2005,URY
+36,Bahrain,5.8,2005,BHR
+37,Cyprus,5.7,2005,CYP
+37,Jordan,5.7,2005,JOR
+39,Malaysia,5.1,2005,MYS
+40,Hungary,5,2005,HUN
+40,Italy,5,2005,ITA
+40,South Korea,5,2005,KOR
+43,Tunisia,4.9,2005,TUN
+44,Lithuania,4.8,2005,LTU
+45,Kuwait,4.7,2005,KWT
+46,South Africa,4.5,2005,ZAF
+47,Czech Republic,4.3,2005,CZE
+47,Greece,4.3,2005,GRC
+47,Namibia,4.3,2005,NAM
+47,Slovakia,4.3,2005,SVK
+51,Costa Rica,4.2,2005,CRI
+51,El Salvador,4.2,2005,SLV
+51,Latvia,4.2,2005,LVA
+51,Mauritius,4.2,2005,MUS
+55,Bulgaria,4,2005,BGR
+55,Colombia,4,2005,COL
+55,Fiji,4,2005,FJI
+55,Seychelles,4,2005,SYC
+59,Cuba,3.8,2005,CUB
+59,Thailand,3,8,2005,THA
+59,Trinidad and Tobago,3,8,2005,TTO
+62,Belize,3.7,2005,BLZ
+62,Brazil,3,7,2005,BRA
+64,Jamaica,3.6,2005,JAM
+65,Ghana,3.5,2005,GHA
+65,Mexico,3.5,2005,MEX
+65,Panama,3.5,2005,PAN
+65,Peru,3.5,2005,PER
+65,Turkey,3.5,2005,TUR
+70,Burkina Faso,3.4,2005,BFA
+70,Croatia,3.4,2005,HRV
+70,Egypt,3.4,2005,EGY
+70,Lesotho,3.4,2005,LSO
+70,Poland,3.4,2005,POL
+70,Saudi Arabia,3.4,2005,SAU
+70,Syria,3.4,2005,SYR
+77,Laos,3.3,2005,LAO
+78,China,3.2,2005,CHN
+78,Morocco,3.2,2005,MAR
+78,Senegal,3.2,2005,SEN
+78,Sri Lanka,3.2,2005,LKA
+78,Suriname,3.2,2005,SUR
+83,Lebanon,3.1,2005,LBN
+83,Rwanda,3.1,2005,RWA
+85,Dominican Republic,3,2005,DOM
+85,Mongolia,3,2005,MNG
+85,Romania,3,2005,ROU
+88,Armenia,2.9,2005,ARM
+88,Benin,2.9,2005,BEN
+88,Bosnia and Herzegovina,2.9,2005,BIH
+88,Gabon,2.9,2005,GAB
+88,India,2.9,2005,IND
+88,Iran,2.9,2005,IRN
+88,Mali,2.9,2005,MLI
+88,Moldova,2.9,2005,MDA
+88,Tanzania,2.9,2005,TZA
+97,Algeria,2.8,2005,DZA
+97,Argentina,2.8,2005,ARG
+97,Madagascar,2.8,2005,MDG
+97,Malawi,2.8,2005,MWI
+97,Mozambique,2.8,2005,MOZ
+97,Serbia and Montenegro,2.8,2005,NA
+103,Gambia,2.7,2005,GMB
+103,Macedonia,2.7,2005,MKD
+103,Swaziland,2.7,2005,SWZ
+103,Yemen,2.7,2005,YEM
+107,Belarus,2.6,2005,BLR
+107,Eritrea,2.6,2005,ERI
+107,Honduras,2.6,2005,HND
+107,Kazakhstan,2.6,2005,KAZ
+107,Nicaragua,2.6,2005,NIC
+107,Palestine,2.6,2005,PSE
+107,Ukraine,2.6,2005,UKR
+107,Vietnam,2.6,2005,VNM
+107,Zambia,2.6,2005,ZMB
+107,Zimbabwe,2.6,2005,ZWE
+117,Afghanistan,2.5,2005,AFG
+117,Bolivia,2.5,2005,BOL
+117,Ecuador,2.5,2005,ECU
+117,Guatemala,2.5,2005,GTM
+117,Guyana,2.5,2005,GUY
+117,Libya,2.5,2005,LBY
+117,Nepal,2.5,2005,NPL
+117,Philippines,2.5,2005,PHL
+117,Uganda,2.5,2005,UGA
+126,Albania,2.4,2005,ALB
+126,Niger,2.4,2005,NER
+126,Russia,2.4,2005,RUS
+126,Sierra Leone,2.4,2005,SLE
+130,Burundi,2.3,2005,BDI
+130,Cambodia,2.3,2005,KHM
+130,Congo, Republic of,2.3,2005,COG
+130,Georgia,2.3,2005,GEO
+130,Kyrgyzstan,2.3,2005,KGZ
+130,Papua New Guinea,2.3,2005,PNG
+130,Venezuela,2.3,2005,VEN
+137,Azerbaijan,2.2,2005,AZE
+137,Cameroon,2.2,2005,CMR
+137,Ethiopia,2.2,2005,ETH
+137,Indonesia,2.2,2005,IDN
+137,Iraq,2.2,2005,IRQ
+137,Liberia,2.2,2005,LBR
+137,Uzbekistan,2.2,2005,UZB
+144,Congo, Democratic Republic,2.1,2005,COD
+144,Kenya,2.1,2005,KEN
+144,Pakistan,2.1,2005,PAK
+144,Paraguay,2.1,2005,PRY
+144,Somalia,2.1,2005,SOM
+144,Sudan,2.1,2005,SDN
+144,Tajikistan,2.1,2005,TJK
+151,Angola,2,2005,AGO
+152,Cote d'Ivoire,1.9,2005,CIV
+152,Equatorial Guinea,1.9,2005,GNQ
+152,Nigeria,1.9,2005,NGA
+155,Haiti,1.8,2005,HTI
+155,Myanmar,1.8,2005,MMR
+155,Turkmenistan,1.8,2005,TKM
+158,Bangladesh,1.7,2005,BGD
+158,Chad,1.7,2005,TCD

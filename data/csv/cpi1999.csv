@@ -1,100 +1,100 @@
-Rank,Country,CPI,Year
-1,Denmark,10,1999
-2,Finland,9.8,1999
-3,New Zealand,9.4,1999
-3,Sweden,9.4,1999
-5,Canada,9.2,1999
-5,Iceland,9.2,1999
-7,Singapore,9.1,1999
-8,Netherlands,9,1999
-9,Norway,8.9,1999
-9,Switzerland,8.9,1999
-11,Luxembourg,8.8,1999
-12,Australia,8.7,1999
-13,United Kingdom,8.6,1999
-14,Germany,8,1999
-15,Hong Kong,7.7,1999
-15,Ireland,7.7,1999
-17,Austria,7.6,1999
-18,USA,7.5,1999
-19,Chile,6.9,1999
-20,Israel,6.8,1999
-21,Portugal,6.7,1999
-22,France,6.6,1999
-22,Spain,6.6,1999
-24,Botswana,6.1,1999
-25,Japan,6,1999
-25,Slovenia,6,1999
-27,Estonia,5.7,1999
-28,Taiwan,5.6,1999
-29,Belgium,5.3,1999
-29,Namibia,5.3,1999
-31,Hungary,5.2,1999
-32,Costa Rica,5.1,1999
-32,Malaysia,5.1,1999
-34,South Africa,5,1999
-34,Tunisia,5,1999
-36,Greece,4.9,1999
-36,Mauritius,4.9,1999
-38,Italy,4.7,1999
-39,Czech Republic,4.6,1999
-40,Peru,4.5,1999
-41,Jordan,4.4,1999
-41,Uruguay,4.4,1999
-43,Mongolia,4.3,1999
-44,Poland,4.2,1999
-45,Brazil,4.1,1999
-45,Malawi,4.1,1999
-45,Morocco,4.1,1999
-45,Zimbabwe,4.1,1999
-49,El Salvador,3.9,1999
-50,Jamaica,3.8,1999
-50,Lithuania,3.8,1999
-50,South Korea,3.8,1999
-53,Slovak Republic,3.7,1999
-54,Philippines,3.6,1999
-54,Turkey,3.6,1999
-56,Mozambique,3.5,1999
-56,Zambia,3.5,1999
-58,Belarus,3.4,1999
-58,China,3.4,1999
-58,Latvia,3.4,1999
-58,Mexico,3.4,1999
-58,Senegal,3.4,1999
-63,Bulgaria,3.3,1999
-63,Egypt,3.3,1999
-63,Ghana,3.3,1999
-63,Macedonia,3.3,1999
-63,Romania,3.3,1999
-68,Guatemala,3.2,1999
-68,Thailand,3.2,1999
-70,Nicaragua,3.1,1999
-71,Argentina,3,1999
-72,Colombia,2.9,1999
-72,India,2.9,1999
-74,Croatia,2.7,1999
-75,Ivory Coast,2.6,1999
-75,Moldova,2.6,1999
-75,Ukraine,2.6,1999
-75,Venezuela,2.6,1999
-75,Vietnam,2.6,1999
-80,Armenia,2.5,1999
-80,Bolivia,2.5,1999
-82,Ecuador,2.4,1999
-82,Russia,2.4,1999
-84,Albania,2.3,1999
-84,Georgia,2.3,1999
-84,Kazakhstan,2.3,1999
-87,Kyrgyz Republic,2.2,1999
-87,Pakistan,2.2,1999
-87,Uganda,2.2,1999
-90,Kenya,2,1999
-90,Paraguay,2,1999
-90,Yugoslavia,2,1999
-93,Tanzania,1.9,1999
-94,Honduras,1.8,1999
-94,Uzbekistan,1.8,1999
-96,Azerbaijan,1.7,1999
-96,Indonesia,1.7,1999
-98,Nigeria,1.6,1999
-99,Cameroon,1.5,1999
+Rank,Country,CPI,Year,ID
+1,Denmark,10,1999,DNK
+2,Finland,9.8,1999,FIN
+3,New Zealand,9.4,1999,NZL
+3,Sweden,9.4,1999,SWE
+5,Canada,9.2,1999,CAN
+5,Iceland,9.2,1999,ISL
+7,Singapore,9.1,1999,SGP
+8,Netherlands,9,1999,NLD
+9,Norway,8.9,1999,NOR
+9,Switzerland,8.9,1999,CHE
+11,Luxembourg,8.8,1999,LUX
+12,Australia,8.7,1999,AUS
+13,United Kingdom,8.6,1999,GBR
+14,Germany,8,1999,DEU
+15,Hong Kong,7.7,1999,HKG
+15,Ireland,7.7,1999,IRL
+17,Austria,7.6,1999,AUT
+18,USA,7.5,1999,USA
+19,Chile,6.9,1999,CHL
+20,Israel,6.8,1999,ISR
+21,Portugal,6.7,1999,PRT
+22,France,6.6,1999,FRA
+22,Spain,6.6,1999,ESP
+24,Botswana,6.1,1999,BWA
+25,Japan,6,1999,JPN
+25,Slovenia,6,1999,SVN
+27,Estonia,5.7,1999,EST
+28,Taiwan,5.6,1999,TWN
+29,Belgium,5.3,1999,BEL
+29,Namibia,5.3,1999,NAM
+31,Hungary,5.2,1999,HUN
+32,Costa Rica,5.1,1999,CRI
+32,Malaysia,5.1,1999,MYS
+34,South Africa,5,1999,ZAF
+34,Tunisia,5,1999,TUN
+36,Greece,4.9,1999,GRC
+36,Mauritius,4.9,1999,MUS
+38,Italy,4.7,1999,ITA
+39,Czech Republic,4.6,1999,CZE
+40,Peru,4.5,1999,PER
+41,Jordan,4.4,1999,JOR
+41,Uruguay,4.4,1999,URY
+43,Mongolia,4.3,1999,MNG
+44,Poland,4.2,1999,POL
+45,Brazil,4.1,1999,BRA
+45,Malawi,4.1,1999,MWI
+45,Morocco,4.1,1999,MAR
+45,Zimbabwe,4.1,1999,ZWE
+49,El Salvador,3.9,1999,SLV
+50,Jamaica,3.8,1999,JAM
+50,Lithuania,3.8,1999,LTU
+50,South Korea,3.8,1999,KOR
+53,Slovak Republic,3.7,1999,SVK
+54,Philippines,3.6,1999,PHL
+54,Turkey,3.6,1999,TUR
+56,Mozambique,3.5,1999,MOZ
+56,Zambia,3.5,1999,ZMB
+58,Belarus,3.4,1999,BLR
+58,China,3.4,1999,CHN
+58,Latvia,3.4,1999,LVA
+58,Mexico,3.4,1999,MEX
+58,Senegal,3.4,1999,SEN
+63,Bulgaria,3.3,1999,BGR
+63,Egypt,3.3,1999,EGY
+63,Ghana,3.3,1999,GHA
+63,Macedonia,3.3,1999,MKD
+63,Romania,3.3,1999,ROU
+68,Guatemala,3.2,1999,GTM
+68,Thailand,3.2,1999,THA
+70,Nicaragua,3.1,1999,NIC
+71,Argentina,3,1999,ARG
+72,Colombia,2.9,1999,COL
+72,India,2.9,1999,IND
+74,Croatia,2.7,1999,HRV
+75,Ivory Coast,2.6,1999,CIV
+75,Moldova,2.6,1999,MDA
+75,Ukraine,2.6,1999,UKR
+75,Venezuela,2.6,1999,VEN
+75,Vietnam,2.6,1999,VNM
+80,Armenia,2.5,1999,ARM
+80,Bolivia,2.5,1999,BOL
+82,Ecuador,2.4,1999,ECU
+82,Russia,2.4,1999,RUS
+84,Albania,2.3,1999,ALB
+84,Georgia,2.3,1999,GEO
+84,Kazakhstan,2.3,1999,KAZ
+87,Kyrgyz Republic,2.2,1999,KGZ
+87,Pakistan,2.2,1999,PAK
+87,Uganda,2.2,1999,UGA
+90,Kenya,2,1999,KEN
+90,Paraguay,2,1999,PRY
+90,Yugoslavia,2,1999,YUG
+93,Tanzania,1.9,1999,TZA
+94,Honduras,1.8,1999,HND
+94,Uzbekistan,1.8,1999,UZB
+96,Azerbaijan,1.7,1999,AZE
+96,Indonesia,1.7,1999,IDN
+98,Nigeria,1.6,1999,NGA
+99,Cameroon,1.5,1999,CMR

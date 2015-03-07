@@ -1,0 +1,181 @@
+Rank,Country,CPI,Year
+1,Denmark,9.4,2007
+1,Finland,9.4,2007
+1,New Zealand,9.4,2007
+4,Singapore,9.3,2007
+4,Sweden,9.3,2007
+6,Iceland,9.2,2007
+7,Netherlands,9,2007
+7,Switzerland,9,2007
+9,Canada,8.7,2007
+9,Norway,8.7,2007
+11,Australia,8.6,2007
+12,Luxembourg,8.4,2007
+12,United Kingdom,8.4,2007
+14,Hong Kong,8.3,2007
+15,Austria,8.1,2007
+16,Germany,7.8,2007
+17,Ireland,7.5,2007
+17,Japan,7.5,2007
+19,France,7.3,2007
+20,USA,7.2,2007
+21,Belgium,7.1,2007
+22,Chile,7,2007
+23,Barbados,6.9,2007
+24,Saint Lucia,6.8,2007
+25,Spain,6.7,2007
+25,Uruguay,6.7,2007
+27,Slovenia,6.6,2007
+28,Estonia,6.5,2007
+28,Portugal,6.5,2007
+30,Israel,6.1,2007
+30,Saint Vincent and the Grenadines,6.1,2007
+32,Qatar,6,2007
+33,Malta,5.8,2007
+34,Macau,5.7,2007
+34,Taiwan,5.7,2007
+34,United Arab Emirates,5.7,2007
+37,Dominica,5.6,2007
+38,Botswana,5.4,2007
+39,Cyprus,5.3,2007
+39,Hungary,5.3,2007
+41,Czech Republik,5.2,2007
+41,Italy,5.2,2007
+43,Malaysia,5.1,2007
+43,South Africa,5.1,2007
+43,South Korea,5.1,2007
+46,Bahrain,5,2007
+46,Bhutan,5,2007
+46,Costa Rica,5,2007
+49,Cape Verde,4.9,2007
+49,Slovakia,4.9,2007
+51,Latvia,4.8,2007
+51,Lithuania,4.8,2007
+53,Jordan,4.7,2007
+53,Mauritius,4.7,2007
+53,Oman,4.7,2007
+56,Greece,4.6,2007
+57,Namibia,4.5,2007
+57,Samoa,4.5,2007
+57,Seychelles,4.5,2007
+60,Kuweit,4.3,2007
+61,Cuba,4.2,2007
+61,Poland,4.2,2007
+61,Tunisia,4.2,2007
+64,Bulgaria,4.1,2007
+64,Croatia,4.1,2007
+64,Turkey,4.1,2007
+67,El Salvador,4,2007
+68,Colombia,3.8,2007
+69,Ghana,3.7,2007
+69,Romania,3.7,2007
+71,Senegal,3.6,2007
+72,Brazil,3.5,2007
+72,China,3.5,2007
+72,India,3.5,2007
+72,Mexico,3.5,2007
+72,Morocco,3.5,2007
+72,Peru,3.5,2007
+72,Suriname,3.5,2007
+79,Georgia,3.4,2007
+79,Grenada,3.4,2007
+79,Saudi Arabia,3.4,2007
+79,Serbia,3.4,2007
+79,Trinidad and Tobago,3.4,2007
+84,Bosnia and Herzegovina,3.3,2007
+84,Gabon,3.3,2007
+84,Jamaica,3.3,2007
+84,Kiribati,3.3,2007
+84,Lesotho,3.3,2007
+84,FYR Macedonia,3.3,2007
+84,Maldives,3.3,2007
+84,Montenegro,3.3,2007
+84,Swaziland,3.3,2007
+84,Thailand,3.3,2007
+94,Madagascar,3.2,2007
+94,Panama,3.2,2007
+94,Sri Lanka,3.2,2007
+94,Tanzania,3.2,2007
+98,Vanuatu,3.1,2007
+99,Algeria,3,2007
+99,Armenia,3,2007
+99,Belize,3,2007
+99,Dominican Republic,3,2007
+99,Lebanon,3,2007
+99,Mongolia,3,2007
+105,Albania,2.9,2007
+105,Argentina,2.9,2007
+105,Bolivia,2.9,2007
+105,Burkina Faso,2.9,2007
+105,Djibouti,2.9,2007
+105,Egypt,2.9,2007
+111,Eritrea,2.8,2007
+111,Guatemala,2.8,2007
+111,Moldovaa,2.8,2007
+111,Mozambique,2.8,2007
+111,Rwanda,2.8,2007
+111,Solomon Islands,2.8,2007
+111,Uganda,2.8,2007
+118,Benin,2.7,2007
+118,Malawi,2.7,2007
+118,Mali,2.7,2007
+118,Sao Tome and Principe,2.7,2007
+118,Ukraine,2.7,2007
+123,Comoros,2.6,2007
+123,Guyana,2.6,2007
+123,Mauritania,2.6,2007
+123,Nicaragua,2.6,2007
+123,Niger,2.6,2007
+123,Timor-Leste,2.6,2007
+123,Viet Nam,2.6,2007
+123,Zambia,2.6,2007
+131,Burundi,2.5,2007
+131,Honduras,2.5,2007
+131,Iran,2.5,2007
+131,Libya,2.5,2007
+131,Nepal,2.5,2007
+131,Philippines,2.5,2007
+131,Yemen,2.5,2007
+138,Cameroon,2.4,2007
+138,Ethiopia,2.4,2007
+138,Pakistan,2.4,2007
+138,Paraguay,2.4,2007
+138,Syria,2.4,2007
+143,Gambia,2.3,2007
+143,Indonesia,2.3,2007
+143,Russia,2.3,2007
+143,Togo,2.3,2007
+147,Angola,2.2,2007
+147,Guinea-Bissau,2.2,2007
+147,Nigeria,2.2,2007
+150,Azerbaijan,2.1,2007
+150,Belarus,2.1,2007
+150,"Congo, Republic",2.1,2007
+150,Cote d'Ivoire,2.1,2007
+150,Ecuador,2.1,2007
+150,Kazakhstan,2.1,2007
+150,Kenya,2.1,2007
+150,Kyrgyzstan,2.1,2007
+150,Liberia,2.1,2007
+150,Sierra Leone,2.1,2007
+150,Tajikistan,2.1,2007
+150,Zimbabwe,2.1,2007
+162,Bangladesh,2,2007
+162,Cambodia,2,2007
+162,Central African Republic,2,2007
+162,Papua New Guinea,2,2007
+162,Turkmenistan,2,2007
+162,Venezuela,2,2007
+168,"Congo, Democratic Republic",1.9,2007
+168,Equatorial Guinea,1.9,2007
+168,Guinea,1.9,2007
+168,Laos,1.9,2007
+172,Afghanistan,1.8,2007
+172,Chad,1.8,2007
+172,Sudan,1.8,2007
+175,Tonga,1.7,2007
+175,Uzbekistan,1.7,2007
+177,Haiti,1.6,2007
+178,Iraq,1.5,2007
+179,Myanmar,1.4,2007
+179,Somalia,1.4,2007

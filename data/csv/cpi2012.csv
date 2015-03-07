@@ -1,177 +1,177 @@
-Rank,Country,,CPI,Year
-1,Denmark,EU,90,2012
-1,Finland,EU,90,2012
-1,New Zealand,AP,90,2012
-4,Sweden,EU,88,2012
-5,Singapore,AP,87,2012
-6,Switzerland,EU,86,2012
-7,Australia,AP,85,2012
-7,Norway,EU,85,2012
-9,Canada,AM,84,2012
-9,Netherlands,EU,84,2012
-11,Iceland,EU,82,2012
-12,Luxembourg,EU,80,2012
-13,Germany,EU,79,2012
-14,Hong Kong,AP,77,2012
-15,Barbados,AM,76,2012
-16,Belgium,EU,75,2012
-17,Japan,AP,74,2012
-17,United Kingdom,EU,74,2012
-19,United States,AM,73,2012
-20,Chile,AM,72,2012
-20,Uruguay,AM,72,2012
-22,Bahamas,AM,71,2012
-22,France,EU,71,2012
-22,Saint Lucia,AM,71,2012
-25,Austria,EU,69,2012
-25,Ireland,EU,69,2012
-27,Qatar,ME,68,2012
-27,United Arab Emirates,ME,68,2012
-29,Cyprus,EU,66,2012
-30,Botswana,AF,65,2012
-30,Spain,EU,65,2012
-32,Estonia,EU,64,2012
-33,Bhutan,AP,63,2012
-33,Portugal,EU,63,2012
-33,Puerto Rico,AM,63,2012
-36,Saint Vincent and the Grenadines,AM,62,2012
-37,Slovenia,EU,61,2012
-37,Taiwan,AP,61,2012
-39,Cape Verde,AF,60,2012
-39,Israel,ME,60,2012
-41,Dominica,AM,58,2012
-41,Poland,EU,58,2012
-43,Malta,EU,57,2012
-43,Mauritius,AF,57,2012
-45,South Korea,AP,56,2012
-46,Brunei,AP,55,2012
-46,Hungary,EU,55,2012
-48,Costa Rica,AM,54,2012
-48,Lithuania,EU,54,2012
-50,Rwanda,AF,53,2012
-51,Georgia,EE,52,2012
-51,Seychelles,AF,52,2012
-53,Bahrain,ME,51,2012
-54,Czech Republic,EU,49,2012
-54,Latvia,EU,49,2012
-54,Malaysia,AP,49,2012
-54,Turkey,EE,49,2012
-58,Cuba,AM,48,2012
-58,Jordan,ME,48,2012
-58,Namibia,AF,48,2012
-61,Oman,ME,47,2012
-62,Croatia,EE,46,2012
-62,Slovakia,EU,46,2012
-64,Ghana,AF,45,2012
-64,Lesotho,AF,45,2012
-66,Kuwait,ME,44,2012
-66,Romania,EU,44,2012
-66,Saudi Arabia,ME,44,2012
-69,Brazil,AM,43,2012
-69,Macedonia,EE,43,2012
-69,South Africa,AF,43,2012
-72,Bosnia and Herzegovina,EE,42,2012
-72,Italy,EU,42,2012
-72,Sao Tome and Principe,AF,42,2012
-75,Bulgaria,EU,41,2012
-75,Liberia,AF,41,2012
-75,Montenegro,EE,41,2012
-75,Tunisia,ME,41,2012
-79,Sri Lanka,AP,40,2012
-80,China,AP,39,2012
-80,Serbia,EE,39,2012
-80,Trinidad and Tobago,AM,39,2012
-83,Burkina Faso,AF,38,2012
-83,El Salvador,AM,38,2012
-83,Jamaica,AM,38,2012
-83,Panama,AM,38,2012
-83,Peru,AM,38,2012
-88,Malawi,AF,37,2012
-88,Morocco,ME,37,2012
-88,Suriname,AM,37,2012
-88,Swaziland,AF,37,2012
-88,Thailand,AP,37,2012
-88,Zambia,AF,37,2012
-94,Benin,AF,36,2012
-94,Colombia,AM,36,2012
-94,Djibouti,AF,36,2012
-94,Greece,EU,36,2012
-94,India,AP,36,2012
-94,Moldova,EE,36,2012
-94,Mongolia,AP,36,2012
-94,Senegal,AF,36,2012
-102,Argentina,AM,35,2012
-102,Gabon,AF,35,2012
-102,Tanzania,AF,35,2012
-105,Algeria,ME,34,2012
-105,Armenia,EE,34,2012
-105,Bolivia,AM,34,2012
-105,Gambia,AF,34,2012
-105,Kosovo,EE,34,2012
-105,Mali,AF,34,2012
-105,Mexico,AM,34,2012
-105,Philippines,AP,34,2012
-113,Albania,EE,33,2012
-113,Ethiopia,AF,33,2012
-113,Guatemala,AM,33,2012
-113,Niger,AF,33,2012
-113,Timor-Leste,AP,33,2012
-118,Dominican Republic,AM,32,2012
-118,Ecuador,AM,32,2012
-118,Egypt,ME,32,2012
-118,Indonesia,AP,32,2012
-118,Madagascar,AF,32,2012
-123,Belarus,EE,31,2012
-123,Mauritania,AF,31,2012
-123,Mozambique,AF,31,2012
-123,Sierra Leone,AF,31,2012
-123,Vietnam,AP,31,2012
-128,Lebanon,ME,30,2012
-128,Togo,AF,30,2012
-130,Côte d´Ivoire,AF,29,2012
-130,Nicaragua,AM,29,2012
-130,Uganda,AF,29,2012
-133,Comoros,AF,28,2012
-133,Guyana,AM,28,2012
-133,Honduras,AM,28,2012
-133,Iran,ME,28,2012
-133,Kazakhstan,EE,28,2012
-133,Russia,EE,28,2012
-139,Azerbaijan,EE,27,2012
-139,Kenya,AF,27,2012
-139,Nepal,AP,27,2012
-139,Nigeria,AF,27,2012
-139,Pakistan,AP,27,2012
-144,Bangladesh,AP,26,2012
-144,Cameroon,AF,26,2012
-144,Central African Republic,AF,26,2012
-144,Congo Republic,AF,26,2012
-144,Syria,ME,26,2012
-144,Ukraine,EE,26,2012
-150,Eritrea,AF,25,2012
-150,Guinea-Bissau,AF,25,2012
-150,Papua New Guinea,AP,25,2012
-150,Paraguay,AM,25,2012
-154,Guinea,AF,24,2012
-154,Kyrgyzstan,EE,24,2012
-156,Yemen,ME,23,2012
-157,Angola,AF,22,2012
-157,Cambodia,AP,22,2012
-157,Tajikistan,EE,22,2012
-160,Democratic Republic of the Congo,AF,21,2012
-160,Laos,AP,21,2012
-160,Libya,ME,21,2012
-163,Equatorial Guinea,AF,20,2012
-163,Zimbabwe,AF,20,2012
-165,Burundi,AF,19,2012
-165,Chad,AF,19,2012
-165,Haiti,AM,19,2012
-165,Venezuela,AM,19,2012
-169,Iraq,ME,18,2012
-170,Turkmenistan,EE,17,2012
-170,Uzbekistan,EE,17,2012
-172,Myanmar,AP,15,2012
-173,Sudan,AF,13,2012
-174,Afghanistan,AP,8,2012
-174,North Korea,AP,8,2012
-174,Somalia,AF,8,2012
+Rank,Country,X,CPI,Year,ID
+1,Denmark,EU,90,2012,DNK
+1,Finland,EU,90,2012,FIN
+1,New Zealand,AP,90,2012,NZL
+4,Sweden,EU,88,2012,SWE
+5,Singapore,AP,87,2012,SGP
+6,Switzerland,EU,86,2012,CHE
+7,Australia,AP,85,2012,AUS
+7,Norway,EU,85,2012,NOR
+9,Canada,AM,84,2012,CAN
+9,Netherlands,EU,84,2012,NLD
+11,Iceland,EU,82,2012,ISL
+12,Luxembourg,EU,80,2012,LUX
+13,Germany,EU,79,2012,DEU
+14,Hong Kong,AP,77,2012,HKG
+15,Barbados,AM,76,2012,BRB
+16,Belgium,EU,75,2012,BEL
+17,Japan,AP,74,2012,JPN
+17,United Kingdom,EU,74,2012,GBR
+19,United States,AM,73,2012,USA
+20,Chile,AM,72,2012,CHL
+20,Uruguay,AM,72,2012,URY
+22,Bahamas,AM,71,2012,BHS
+22,France,EU,71,2012,FRA
+22,Saint Lucia,AM,71,2012,LCA
+25,Austria,EU,69,2012,AUT
+25,Ireland,EU,69,2012,IRL
+27,Qatar,ME,68,2012,QAT
+27,United Arab Emirates,ME,68,2012,ARE
+29,Cyprus,EU,66,2012,CYP
+30,Botswana,AF,65,2012,BWA
+30,Spain,EU,65,2012,ESP
+32,Estonia,EU,64,2012,EST
+33,Bhutan,AP,63,2012,BTN
+33,Portugal,EU,63,2012,PRT
+33,Puerto Rico,AM,63,2012,PRI
+36,Saint Vincent and the Grenadines,AM,62,2012,VCT
+37,Slovenia,EU,61,2012,SVN
+37,Taiwan,AP,61,2012,TWN
+39,Cape Verde,AF,60,2012,CPV
+39,Israel,ME,60,2012,ISR
+41,Dominica,AM,58,2012,DMA
+41,Poland,EU,58,2012,POL
+43,Malta,EU,57,2012,MLT
+43,Mauritius,AF,57,2012,MUS
+45,South Korea,AP,56,2012,KOR
+46,Brunei,AP,55,2012,BRN
+46,Hungary,EU,55,2012,HUN
+48,Costa Rica,AM,54,2012,CRI
+48,Lithuania,EU,54,2012,LTU
+50,Rwanda,AF,53,2012,RWA
+51,Georgia,EE,52,2012,GEO
+51,Seychelles,AF,52,2012,SYC
+53,Bahrain,ME,51,2012,BHR
+54,Czech Republic,EU,49,2012,CZE
+54,Latvia,EU,49,2012,LVA
+54,Malaysia,AP,49,2012,MYS
+54,Turkey,EE,49,2012,TUR
+58,Cuba,AM,48,2012,CUB
+58,Jordan,ME,48,2012,JOR
+58,Namibia,AF,48,2012,NAM
+61,Oman,ME,47,2012,OMN
+62,Croatia,EE,46,2012,HRV
+62,Slovakia,EU,46,2012,SVK
+64,Ghana,AF,45,2012,GHA
+64,Lesotho,AF,45,2012,LSO
+66,Kuwait,ME,44,2012,KWT
+66,Romania,EU,44,2012,ROU
+66,Saudi Arabia,ME,44,2012,SAU
+69,Brazil,AM,43,2012,BRA
+69,Macedonia,EE,43,2012,MKD
+69,South Africa,AF,43,2012,ZAF
+72,Bosnia and Herzegovina,EE,42,2012,BIH
+72,Italy,EU,42,2012,ITA
+72,Sao Tome and Principe,AF,42,2012,STP
+75,Bulgaria,EU,41,2012,BGR
+75,Liberia,AF,41,2012,LBR
+75,Montenegro,EE,41,2012,MNE
+75,Tunisia,ME,41,2012,TUN
+79,Sri Lanka,AP,40,2012,LKA
+80,China,AP,39,2012,CHN
+80,Serbia,EE,39,2012,SRB
+80,Trinidad and Tobago,AM,39,2012,TTO
+83,Burkina Faso,AF,38,2012,BFA
+83,El Salvador,AM,38,2012,SLV
+83,Jamaica,AM,38,2012,JAM
+83,Panama,AM,38,2012,PAN
+83,Peru,AM,38,2012,PER
+88,Malawi,AF,37,2012,MWI
+88,Morocco,ME,37,2012,MAR
+88,Suriname,AM,37,2012,SUR
+88,Swaziland,AF,37,2012,SWZ
+88,Thailand,AP,37,2012,THA
+88,Zambia,AF,37,2012,ZMB
+94,Benin,AF,36,2012,BEN
+94,Colombia,AM,36,2012,COL
+94,Djibouti,AF,36,2012,DJI
+94,Greece,EU,36,2012,GRC
+94,India,AP,36,2012,IND
+94,Moldova,EE,36,2012,MDA
+94,Mongolia,AP,36,2012,MNG
+94,Senegal,AF,36,2012,SEN
+102,Argentina,AM,35,2012,ARG
+102,Gabon,AF,35,2012,GAB
+102,Tanzania,AF,35,2012,TZA
+105,Algeria,ME,34,2012,DZA
+105,Armenia,EE,34,2012,ARM
+105,Bolivia,AM,34,2012,BOL
+105,Gambia,AF,34,2012,GMB
+105,Kosovo,EE,34,2012,NA
+105,Mali,AF,34,2012,MLI
+105,Mexico,AM,34,2012,MEX
+105,Philippines,AP,34,2012,PHL
+113,Albania,EE,33,2012,ALB
+113,Ethiopia,AF,33,2012,ETH
+113,Guatemala,AM,33,2012,GTM
+113,Niger,AF,33,2012,NER
+113,Timor-Leste,AP,33,2012,TLS
+118,Dominican Republic,AM,32,2012,DOM
+118,Ecuador,AM,32,2012,ECU
+118,Egypt,ME,32,2012,EGY
+118,Indonesia,AP,32,2012,IDN
+118,Madagascar,AF,32,2012,MDG
+123,Belarus,EE,31,2012,BLR
+123,Mauritania,AF,31,2012,MRT
+123,Mozambique,AF,31,2012,MOZ
+123,Sierra Leone,AF,31,2012,SLE
+123,Vietnam,AP,31,2012,VNM
+128,Lebanon,ME,30,2012,LBN
+128,Togo,AF,30,2012,TGO
+130,Côte d´Ivoire,AF,29,2012,CIV
+130,Nicaragua,AM,29,2012,NIC
+130,Uganda,AF,29,2012,UGA
+133,Comoros,AF,28,2012,COM
+133,Guyana,AM,28,2012,GUY
+133,Honduras,AM,28,2012,HND
+133,Iran,ME,28,2012,IRN
+133,Kazakhstan,EE,28,2012,KAZ
+133,Russia,EE,28,2012,RUS
+139,Azerbaijan,EE,27,2012,AZE
+139,Kenya,AF,27,2012,KEN
+139,Nepal,AP,27,2012,NPL
+139,Nigeria,AF,27,2012,NGA
+139,Pakistan,AP,27,2012,PAK
+144,Bangladesh,AP,26,2012,BGD
+144,Cameroon,AF,26,2012,CMR
+144,Central African Republic,AF,26,2012,CAF
+144,Congo Republic,AF,26,2012,COG
+144,Syria,ME,26,2012,SYR
+144,Ukraine,EE,26,2012,UKR
+150,Eritrea,AF,25,2012,ERI
+150,Guinea-Bissau,AF,25,2012,GNB
+150,Papua New Guinea,AP,25,2012,PNG
+150,Paraguay,AM,25,2012,PRY
+154,Guinea,AF,24,2012,GIN
+154,Kyrgyzstan,EE,24,2012,KGZ
+156,Yemen,ME,23,2012,YEM
+157,Angola,AF,22,2012,AGO
+157,Cambodia,AP,22,2012,KHM
+157,Tajikistan,EE,22,2012,TJK
+160,Democratic Republic of the Congo,AF,21,2012,COD
+160,Laos,AP,21,2012,LAO
+160,Libya,ME,21,2012,LBY
+163,Equatorial Guinea,AF,20,2012,GNQ
+163,Zimbabwe,AF,20,2012,ZWE
+165,Burundi,AF,19,2012,BDI
+165,Chad,AF,19,2012,TCD
+165,Haiti,AM,19,2012,HTI
+165,Venezuela,AM,19,2012,VEN
+169,Iraq,ME,18,2012,IRQ
+170,Turkmenistan,EE,17,2012,TKM
+170,Uzbekistan,EE,17,2012,UZB
+172,Myanmar,AP,15,2012,MMR
+173,Sudan,AF,13,2012,SDN
+174,Afghanistan,AP,8,2012,AFG
+174,North Korea,AP,8,2012,PRK
+174,Somalia,AF,8,2012,SOM

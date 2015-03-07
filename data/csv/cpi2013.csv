@@ -1,178 +1,178 @@
-Rank,Country,CPI,Year
-1,Denmark,91,2013
-1,New Zealand,91,2013
-3,Finland,89,2013
-3,Sweden,89,2013
-5,Norway,86,2013
-5,Singapore,86,2013
-7,Switzerland,85,2013
-8,Netherlands,83,2013
-9,Australia,81,2013
-9,Canada,81,2013
-11,Luxembourg,80,2013
-12,Germany,78,2013
-12,Iceland,78,2013
-14,United Kingdom,76,2013
-15,Barbados,75,2013
-15,Belgium,75,2013
-15,Hong Kong,75,2013
-18,Japan,74,2013
-19,Uruguay,73,2013
-19,United States,73,2013
-21,Ireland,72,2013
-22,Bahamas,71,2013
-22,Chile,71,2013
-22,France,71,2013
-22,Saint Lucia,71,2013
-26,Austria,69,2013
-26,United Arab Emirates,69,2013
-28,Estonia,68,2013
-28,Qatar,68,2013
-30,Botswana,64,2013
-31,Bhutan,63,2013
-31,Cyprus,63,2013
-33,Portugal,62,2013
-33,Puerto Rico,62,2013
-33,Saint Vincent and the Grenadines,62,2013
-36,Israel,61,2013
-36,Taiwan,61,2013
-38,Brunei,60,2013
-38,Poland,60,2013
-40,Spain,59,2013
-41,Cape Verde,58,2013
-41,Dominica,58,2013
-43,Lithuania,57,2013
-43,Slovenia,57,2013
-45,Malta,56,2013
-46,South Korea,55,2013
-47,Hungary,54,2013
-47,Seychelles,54,2013
-49,Costa Rica,53,2013
-49,Latvia,53,2013
-49,Rwanda,53,2013
-52,Mauritius,52,2013
-53,Malaysia,50,2013
-53,Turkey,50,2013
-55,Georgia,49,2013
-55,Lesotho,49,2013
-57,Bahrain,48,2013
-57,Croatia,48,2013
-57,Czech Republic,48,2013
-57,Namibia,48,2013
-61,Oman,47,2013
-61,Slovakia,47,2013
-63,Cuba,46,2013
-63,Ghana,46,2013
-63,Saudi Arabia,46,2013
-66,Jordan,45,2013
-67,Macedonia,44,2013
-67,Montenegro,44,2013
-69,Italy,43,2013
-69,Kuwait,43,2013
-69,Romania,43,2013
-72,Bosnia and Herzegovina,42,2013
-72,Brazil,42,2013
-72,Sao Tome and Principe,42,2013
-72,Serbia,42,2013
-72,South Africa,42,2013
-77,Bulgaria,41,2013
-77,Senegal,41,2013
-77,Tunisia,41,2013
-80,China,40,2013
-80,Greece,40,2013
-82,Swaziland,39,2013
-83,Burkina Faso,38,2013
-83,El Salvador,38,2013
-83,Jamaica,38,2013
-83,Liberia,38,2013
-83,Mongolia,38,2013
-83,Peru,38,2013
-83,Trinidad and Tobago,38,2013
-83,Zambia,38,2013
-91,Malawi,37,2013
-91,Morocco,37,2013
-91,Sri Lanka,37,2013
-94,Algeria,36,2013
-94,Armenia,36,2013
-94,Benin,36,2013
-94,Colombia,36,2013
-94,Djibouti,36,2013
-94,India,36,2013
-94,Philippines,36,2013
-94,Suriname,36,2013
-102,Ecuador,35,2013
-102,Moldova,35,2013
-102,Panama,35,2013
-102,Thailand,35,2013
-106,Argentina,34,2013
-106,Bolivia,34,2013
-106,Gabon,34,2013
-106,Mexico,34,2013
-106,Niger,34,2013
-111,Ethiopia,33,2013
-111,Kosovo,33,2013
-111,Tanzania,33,2013
-114,Egypt,32,2013
-114,Indonesia,32,2013
-116,Albania,31,2013
-116,Nepal,31,2013
-116,Vietnam,31,2013
-119,Mauritania,30,2013
-119,Mozambique,30,2013
-119,Sierra Leone,30,2013
-119,Timor-Leste,30,2013
-123,Belarus,29,2013
-123,Dominican Republic,29,2013
-123,Guatemala,29,2013
-123,Togo,29,2013
-127,Azerbaijan,28,2013
-127,Comoros,28,2013
-127,Gambia,28,2013
-127,Lebanon,28,2013
-127,Madagascar,28,2013
-127,Mali,28,2013
-127,Nicaragua,28,2013
-127,Pakistan,28,2013
-127,Russia,28,2013
-136,Bangladesh,27,2013
-136,Côte d´Ivoire,27,2013
-136,Guyana,27,2013
-136,Kenya,27,2013
-140,Honduras,26,2013
-140,Kazakhstan,26,2013
-140,Laos,26,2013
-140,Uganda,26,2013
-144,Cameroon,25,2013
-144,Central African Republic,25,2013
-144,Iran,25,2013
-144,Nigeria,25,2013
-144,Papua New Guinea,25,2013
-144,Ukraine,25,2013
-150,Guinea,24,2013
-150,Kyrgyzstan,24,2013
-150,Paraguay,24,2013
-153,Angola,23,2013
-154,Congo Republic,22,2013
-154,Democratic Republic of the Congo,22,2013
-154,Tajikistan,22,2013
-157,Burundi,21,2013
-157,Myanmar,21,2013
-157,Zimbabwe,21,2013
-160,Cambodia,20,2013
-160,Eritrea,20,2013
-160,Venezuela,20,2013
-163,Chad,19,2013
-163,Equatorial Guinea,19,2013
-163,Guinea-Bissau,19,2013
-163,Haiti,19,2013
-167,Yemen,18,2013
-168,Syria,17,2013
-168,Turkmenistan,17,2013
-168,Uzbekistan,17,2013
-171,Iraq,16,2013
-172,Libya,15,2013
-173,South Sudan,14,2013
-174,Sudan,11,2013
-175,Afghanistan,8,2013
-175,North Korea,8,2013
-175,Somalia,8,2013
+Rank,Country,CPI,Year,ID
+1,Denmark,91,2013,DNK
+1,New Zealand,91,2013,NZL
+3,Finland,89,2013,FIN
+3,Sweden,89,2013,SWE
+5,Norway,86,2013,NOR
+5,Singapore,86,2013,SGP
+7,Switzerland,85,2013,CHE
+8,Netherlands,83,2013,NLD
+9,Australia,81,2013,AUS
+9,Canada,81,2013,CAN
+11,Luxembourg,80,2013,LUX
+12,Germany,78,2013,DEU
+12,Iceland,78,2013,ISL
+14,United Kingdom,76,2013,GBR
+15,Barbados,75,2013,BRB
+15,Belgium,75,2013,BEL
+15,Hong Kong,75,2013,HKG
+18,Japan,74,2013,JPN
+19,Uruguay,73,2013,URY
+19,United States,73,2013,USA
+21,Ireland,72,2013,IRL
+22,Bahamas,71,2013,BHS
+22,Chile,71,2013,CHL
+22,France,71,2013,FRA
+22,Saint Lucia,71,2013,LCA
+26,Austria,69,2013,AUT
+26,United Arab Emirates,69,2013,ARE
+28,Estonia,68,2013,EST
+28,Qatar,68,2013,QAT
+30,Botswana,64,2013,BWA
+31,Bhutan,63,2013,BTN
+31,Cyprus,63,2013,CYP
+33,Portugal,62,2013,PRT
+33,Puerto Rico,62,2013,PRI
+33,Saint Vincent and the Grenadines,62,2013,VCT
+36,Israel,61,2013,ISR
+36,Taiwan,61,2013,TWN
+38,Brunei,60,2013,BRN
+38,Poland,60,2013,POL
+40,Spain,59,2013,ESP
+41,Cape Verde,58,2013,CPV
+41,Dominica,58,2013,DMA
+43,Lithuania,57,2013,LTU
+43,Slovenia,57,2013,SVN
+45,Malta,56,2013,MLT
+46,South Korea,55,2013,KOR
+47,Hungary,54,2013,HUN
+47,Seychelles,54,2013,SYC
+49,Costa Rica,53,2013,CRI
+49,Latvia,53,2013,LVA
+49,Rwanda,53,2013,RWA
+52,Mauritius,52,2013,MUS
+53,Malaysia,50,2013,MYS
+53,Turkey,50,2013,TUR
+55,Georgia,49,2013,GEO
+55,Lesotho,49,2013,LSO
+57,Bahrain,48,2013,BHR
+57,Croatia,48,2013,HRV
+57,Czech Republic,48,2013,CZE
+57,Namibia,48,2013,NAM
+61,Oman,47,2013,OMN
+61,Slovakia,47,2013,SVK
+63,Cuba,46,2013,CUB
+63,Ghana,46,2013,GHA
+63,Saudi Arabia,46,2013,SAU
+66,Jordan,45,2013,JOR
+67,Macedonia,44,2013,MKD
+67,Montenegro,44,2013,MNE
+69,Italy,43,2013,ITA
+69,Kuwait,43,2013,KWT
+69,Romania,43,2013,ROU
+72,Bosnia and Herzegovina,42,2013,BIH
+72,Brazil,42,2013,BRA
+72,Sao Tome and Principe,42,2013,STP
+72,Serbia,42,2013,SRB
+72,South Africa,42,2013,ZAF
+77,Bulgaria,41,2013,BGR
+77,Senegal,41,2013,SEN
+77,Tunisia,41,2013,TUN
+80,China,40,2013,CHN
+80,Greece,40,2013,GRC
+82,Swaziland,39,2013,SWZ
+83,Burkina Faso,38,2013,BFA
+83,El Salvador,38,2013,SLV
+83,Jamaica,38,2013,JAM
+83,Liberia,38,2013,LBR
+83,Mongolia,38,2013,MNG
+83,Peru,38,2013,PER
+83,Trinidad and Tobago,38,2013,TTO
+83,Zambia,38,2013,ZMB
+91,Malawi,37,2013,MWI
+91,Morocco,37,2013,MAR
+91,Sri Lanka,37,2013,LKA
+94,Algeria,36,2013,DZA
+94,Armenia,36,2013,ARM
+94,Benin,36,2013,BEN
+94,Colombia,36,2013,COL
+94,Djibouti,36,2013,DJI
+94,India,36,2013,IND
+94,Philippines,36,2013,PHL
+94,Suriname,36,2013,SUR
+102,Ecuador,35,2013,ECU
+102,Moldova,35,2013,MDA
+102,Panama,35,2013,PAN
+102,Thailand,35,2013,THA
+106,Argentina,34,2013,ARG
+106,Bolivia,34,2013,BOL
+106,Gabon,34,2013,GAB
+106,Mexico,34,2013,MEX
+106,Niger,34,2013,NER
+111,Ethiopia,33,2013,ETH
+111,Kosovo,33,2013,NA
+111,Tanzania,33,2013,TZA
+114,Egypt,32,2013,EGY
+114,Indonesia,32,2013,IDN
+116,Albania,31,2013,ALB
+116,Nepal,31,2013,NPL
+116,Vietnam,31,2013,VNM
+119,Mauritania,30,2013,MRT
+119,Mozambique,30,2013,MOZ
+119,Sierra Leone,30,2013,SLE
+119,Timor-Leste,30,2013,TLS
+123,Belarus,29,2013,BLR
+123,Dominican Republic,29,2013,DOM
+123,Guatemala,29,2013,GTM
+123,Togo,29,2013,TGO
+127,Azerbaijan,28,2013,AZE
+127,Comoros,28,2013,COM
+127,Gambia,28,2013,GMB
+127,Lebanon,28,2013,LBN
+127,Madagascar,28,2013,MDG
+127,Mali,28,2013,MLI
+127,Nicaragua,28,2013,NIC
+127,Pakistan,28,2013,PAK
+127,Russia,28,2013,RUS
+136,Bangladesh,27,2013,BGD
+136,Côte d´Ivoire,27,2013,CIV
+136,Guyana,27,2013,GUY
+136,Kenya,27,2013,KEN
+140,Honduras,26,2013,HND
+140,Kazakhstan,26,2013,KAZ
+140,Laos,26,2013,LAO
+140,Uganda,26,2013,UGA
+144,Cameroon,25,2013,CMR
+144,Central African Republic,25,2013,CAF
+144,Iran,25,2013,IRN
+144,Nigeria,25,2013,NGA
+144,Papua New Guinea,25,2013,PNG
+144,Ukraine,25,2013,UKR
+150,Guinea,24,2013,GIN
+150,Kyrgyzstan,24,2013,KGZ
+150,Paraguay,24,2013,PRY
+153,Angola,23,2013,AGO
+154,Congo Republic,22,2013,COG
+154,Democratic Republic of the Congo,22,2013,COD
+154,Tajikistan,22,2013,TJK
+157,Burundi,21,2013,BDI
+157,Myanmar,21,2013,MMR
+157,Zimbabwe,21,2013,ZWE
+160,Cambodia,20,2013,KHM
+160,Eritrea,20,2013,ERI
+160,Venezuela,20,2013,VEN
+163,Chad,19,2013,TCD
+163,Equatorial Guinea,19,2013,GNQ
+163,Guinea-Bissau,19,2013,GNB
+163,Haiti,19,2013,HTI
+167,Yemen,18,2013,YEM
+168,Syria,17,2013,SYR
+168,Turkmenistan,17,2013,TKM
+168,Uzbekistan,17,2013,UZB
+171,Iraq,16,2013,IRQ
+172,Libya,15,2013,LBY
+173,South Sudan,14,2013,SSD
+174,Sudan,11,2013,SDN
+175,Afghanistan,8,2013,AFG
+175,North Korea,8,2013,PRK
+175,Somalia,8,2013,SOM

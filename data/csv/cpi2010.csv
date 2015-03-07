@@ -1,179 +1,179 @@
-Rank,Country,CPI,Year
-1,Denmark,9.3,2010
-1,New Zealand,9.3,2010
-1,Singapore,9.3,2010
-4,Finland,9.2,2010
-4,Sweden,9.2,2010
-6,Canada,8.9,2010
-7,Netherlands,8.8,2010
-8,Australia,8.7,2010
-8,Switzerland,8.7,2010
-10,Norway,8.6,2010
-11,Iceland,8.5,2010
-11,Luxembourg,8.5,2010
-13,Hong Kong,8.4,2010
-14,Ireland,8.0,2010
-15,Austria,7.9,2010
-15,Germany,7.9,2010
-17,Barbados,7.8,2010
-17,Japan,7.8,2010
-19,Qatar,7.7,2010
-20,United Kingdom,7.6,2010
-21,Chile,7.2,2010
-22,Belgium,7.1,2010
-22,United States,7.1,2010
-24,Uruguay,6.9,2010
-25,France,6.8,2010
-26,Estonia,6.5,2010
-27,Slovenia,6.4,2010
-28,Cyprus,6.3,2010
-28,United Arab Emirates,6.3,2010
-30,Israel,6.1,2010
-30,Spain,6.1,2010
-32,Portugal,6.0,2010
-33,Botswana,5.8,2010
-33,Puerto Rico,5.8,2010
-33,Taiwan,5.8,2010
-36,Bhutan,5.7,2010
-37,Malta,5.6,2010
-38,Brunei,5.5,2010
-39,South Korea,5.4,2010
-39,Mauritius,5.4,2010
-41,Costa Rica,5.3,2010
-41,Oman,5.3,2010
-41,Poland,5.3,2010
-44,Dominica,5.2,2010
-45,Cape Verde,5.1,2010
-46,Lithuania,5.0,2010
-46,Macau,5.0,2010
-48,Bahrain,4.9,2010
-49,Seychelles,4.8,2010
-50,Hungary,4.7,2010
-50,Jordan,4.7,2010
-50,Saudi Arabia,4.7,2010
-53,Czech Republic,4.6,2010
-54,Kuwait,4.5,2010
-54,South Africa,4.5,2010
-56,Malaysia,4.4,2010
-56,Namibia,4.4,2010
-56,Turkey,4.4,2010
-59,Latvia,4.3,2010
-59,Slovakia,4.3,2010
-59,Tunisia,4.3,2010
-62,Croatia,4.1,2010
-62,FYR Macedonia,4.1,2010
-62,Ghana,4.1,2010
-62,Samoa,4.1,2010
-66,Rwanda,4.0,2010
-67,Italy,3.9,2010
-68,Georgia,3.8,2010
-69,Brazil,3.7,2010
-69,Cuba,3.7,2010
-69,Montenegro,3.7,2010
-69,Romania,3.7,2010
-73,Bulgaria,3.6,2010
-73,El Salvador,3.6,2010
-73,Panama,3.6,2010
-73,Trinidad and Tobago,3.6,2010
-73,Vanuatu,3.6,2010
-78,China,3.5,2010
-78,Colombia,3.5,2010
-78,Greece,3.5,2010
-78,Lesotho,3.5,2010
-78,Peru,3.5,2010
-78,Serbia,3.5,2010
-78,Thailand,3.5,2010
-85,Malawi,3.4,2010
-85,Morocco,3.4,2010
-87,Albania,3.3,2010
-87,India,3.3,2010
-87,Jamaica,3.3,2010
-87,Liberia,3.3,2010
-91,Bosnia and Herzegovina,3.2,2010
-91,Djibouti,3.2,2010
-91,Gambia,3.2,2010
-91,Guatemala,3.2,2010
-91,Kiribati,3.2,2010
-91,Sri Lanka,3.2,2010
-91,Swaziland,3.2,2010
-98,Burkina Faso,3.1,2010
-98,Egypt,3.1,2010
-98,Mexico,3.1,2010
-101,Dominican Republic,3.0,2010
-101,Sao Tome and Principe,3.0,2010
-101,Tonga,3.0,2010
-101,Zambia,3.0,2010
-105,Algeria,2.9,2010
-105,Argentina,2.9,2010
-105,Kazakhstan,2.9,2010
-105,Moldova,2.9,2010
-105,Senegal,2.9,2010
-110,Benin,2.8,2010
-110,Bolivia,2.8,2010
-110,Gabon,2.8,2010
-110,Indonesia,2.8,2010
-110,Kosovo,2.8,2010
-110,Solomon Islands,2.8,2010
-116,Ethiopia,2.7,2010
-116,Guyana,2.7,2010
-116,Mali,2.7,2010
-116,Mongolia,2.7,2010
-116,Mozambique,2.7,2010
-116,Tanzania,2.7,2010
-116,Vietnam,2.7,2010
-123,Armenia,2.6,2010
-123,Eritrea,2.6,2010
-123,Madagascar,2.6,2010
-123,Niger,2.6,2010
-127,Belarus,2.5,2010
-127,Ecuador,2.5,2010
-127,Lebanon,2.5,2010
-127,Nicaragua,2.5,2010
-127,Syria,2.5,2010
-127,Timor-Leste,2.5,2010
-127,Uganda,2.5,2010
-134,Azerbaijan,2.4,2010
-134,Bangladesh,2.4,2010
-134,Honduras,2.4,2010
-134,Nigeria,2.4,2010
-134,Philippines,2.4,2010
-134,Sierra Leone,2.4,2010
-134,Togo,2.4,2010
-134,Ukraine,2.4,2010
-134,Zimbabwe,2.4,2010
-143,Maldives,2.3,2010
-143,Mauritania,2.3,2010
-143,Pakistan,2.3,2010
-146,Cameroon,2.2,2010
-146,Côte d´Ivoire,2.2,2010
-146,Haiti,2.2,2010
-146,Iran,2.2,2010
-146,Libya,2.2,2010
-146,Nepal,2.2,2010
-146,Paraguay,2.2,2010
-146,Yemen,2.2,2010
-154,Cambodia,2.1,2010
-154,Central African Republic,2.1,2010
-154,Comoros,2.1,2010
-154,Congo-Brazzaville,2.1,2010
-154,Guinea-Bissau,2.1,2010
-154,Kenya,2.1,2010
-154,Laos,2.1,2010
-154,Papua New Guinea,2.1,2010
-154,Russia,2.1,2010
-154,Tajikistan,2.1,2010
-164,Democratic Republic of Congo,2.0,2010
-164,Guinea,2.0,2010
-164,Kyrgyzstan,2.0,2010
-164,Venezuela,2.0,2010
-168,Angola,1.9,2010
-168,Equatorial Guinea,1.9,2010
-170,Burundi,1.8,2010
-171,Chad,1.7,2010
-172,Sudan,1.6,2010
-172,Turkmenistan,1.6,2010
-172,Uzbekistan,1.6,2010
-175,Iraq,1.5,2010
-176,Afghanistan,1.4,2010
-176,Myanmar,1.4,2010
-178,Somalia,1.1,2010
+Rank,Country,CPI,Year,ID
+1,Denmark,9.3,2010,DNK
+1,New Zealand,9.3,2010,NZL
+1,Singapore,9.3,2010,SGP
+4,Finland,9.2,2010,FIN
+4,Sweden,9.2,2010,SWE
+6,Canada,8.9,2010,CAN
+7,Netherlands,8.8,2010,NLD
+8,Australia,8.7,2010,AUS
+8,Switzerland,8.7,2010,CHE
+10,Norway,8.6,2010,NOR
+11,Iceland,8.5,2010,ISL
+11,Luxembourg,8.5,2010,LUX
+13,Hong Kong,8.4,2010,HKG
+14,Ireland,8,2010,IRL
+15,Austria,7.9,2010,AUT
+15,Germany,7.9,2010,DEU
+17,Barbados,7.8,2010,BRB
+17,Japan,7.8,2010,JPN
+19,Qatar,7.7,2010,QAT
+20,United Kingdom,7.6,2010,GBR
+21,Chile,7.2,2010,CHL
+22,Belgium,7.1,2010,BEL
+22,United States,7.1,2010,USA
+24,Uruguay,6.9,2010,URY
+25,France,6.8,2010,FRA
+26,Estonia,6.5,2010,EST
+27,Slovenia,6.4,2010,SVN
+28,Cyprus,6.3,2010,CYP
+28,United Arab Emirates,6.3,2010,ARE
+30,Israel,6.1,2010,ISR
+30,Spain,6.1,2010,ESP
+32,Portugal,6,2010,PRT
+33,Botswana,5.8,2010,BWA
+33,Puerto Rico,5.8,2010,PRI
+33,Taiwan,5.8,2010,TWN
+36,Bhutan,5.7,2010,BTN
+37,Malta,5.6,2010,MLT
+38,Brunei,5.5,2010,BRN
+39,South Korea,5.4,2010,KOR
+39,Mauritius,5.4,2010,MUS
+41,Costa Rica,5.3,2010,CRI
+41,Oman,5.3,2010,OMN
+41,Poland,5.3,2010,POL
+44,Dominica,5.2,2010,DMA
+45,Cape Verde,5.1,2010,CPV
+46,Lithuania,5,2010,LTU
+46,Macau,5,2010,MAC
+48,Bahrain,4.9,2010,BHR
+49,Seychelles,4.8,2010,SYC
+50,Hungary,4.7,2010,HUN
+50,Jordan,4.7,2010,JOR
+50,Saudi Arabia,4.7,2010,SAU
+53,Czech Republic,4.6,2010,CZE
+54,Kuwait,4.5,2010,KWT
+54,South Africa,4.5,2010,ZAF
+56,Malaysia,4.4,2010,MYS
+56,Namibia,4.4,2010,NAM
+56,Turkey,4.4,2010,TUR
+59,Latvia,4.3,2010,LVA
+59,Slovakia,4.3,2010,SVK
+59,Tunisia,4.3,2010,TUN
+62,Croatia,4.1,2010,HRV
+62,FYR Macedonia,4.1,2010,MKD
+62,Ghana,4.1,2010,GHA
+62,Samoa,4.1,2010,WSM
+66,Rwanda,4,2010,RWA
+67,Italy,3.9,2010,ITA
+68,Georgia,3.8,2010,GEO
+69,Brazil,3.7,2010,BRA
+69,Cuba,3.7,2010,CUB
+69,Montenegro,3.7,2010,MNE
+69,Romania,3.7,2010,ROU
+73,Bulgaria,3.6,2010,BGR
+73,El Salvador,3.6,2010,SLV
+73,Panama,3.6,2010,PAN
+73,Trinidad and Tobago,3.6,2010,TTO
+73,Vanuatu,3.6,2010,VUT
+78,China,3.5,2010,CHN
+78,Colombia,3.5,2010,COL
+78,Greece,3.5,2010,GRC
+78,Lesotho,3.5,2010,LSO
+78,Peru,3.5,2010,PER
+78,Serbia,3.5,2010,SRB
+78,Thailand,3.5,2010,THA
+85,Malawi,3.4,2010,MWI
+85,Morocco,3.4,2010,MAR
+87,Albania,3.3,2010,ALB
+87,India,3.3,2010,IND
+87,Jamaica,3.3,2010,JAM
+87,Liberia,3.3,2010,LBR
+91,Bosnia and Herzegovina,3.2,2010,BIH
+91,Djibouti,3.2,2010,DJI
+91,Gambia,3.2,2010,GMB
+91,Guatemala,3.2,2010,GTM
+91,Kiribati,3.2,2010,KIR
+91,Sri Lanka,3.2,2010,LKA
+91,Swaziland,3.2,2010,SWZ
+98,Burkina Faso,3.1,2010,BFA
+98,Egypt,3.1,2010,EGY
+98,Mexico,3.1,2010,MEX
+101,Dominican Republic,3,2010,DOM
+101,Sao Tome and Principe,3,2010,STP
+101,Tonga,3,2010,TON
+101,Zambia,3,2010,ZMB
+105,Algeria,2.9,2010,DZA
+105,Argentina,2.9,2010,ARG
+105,Kazakhstan,2.9,2010,KAZ
+105,Moldova,2.9,2010,MDA
+105,Senegal,2.9,2010,SEN
+110,Benin,2.8,2010,BEN
+110,Bolivia,2.8,2010,BOL
+110,Gabon,2.8,2010,GAB
+110,Indonesia,2.8,2010,IDN
+110,Kosovo,2.8,2010,NA
+110,Solomon Islands,2.8,2010,SLB
+116,Ethiopia,2.7,2010,ETH
+116,Guyana,2.7,2010,GUY
+116,Mali,2.7,2010,MLI
+116,Mongolia,2.7,2010,MNG
+116,Mozambique,2.7,2010,MOZ
+116,Tanzania,2.7,2010,TZA
+116,Vietnam,2.7,2010,VNM
+123,Armenia,2.6,2010,ARM
+123,Eritrea,2.6,2010,ERI
+123,Madagascar,2.6,2010,MDG
+123,Niger,2.6,2010,NER
+127,Belarus,2.5,2010,BLR
+127,Ecuador,2.5,2010,ECU
+127,Lebanon,2.5,2010,LBN
+127,Nicaragua,2.5,2010,NIC
+127,Syria,2.5,2010,SYR
+127,Timor-Leste,2.5,2010,TLS
+127,Uganda,2.5,2010,UGA
+134,Azerbaijan,2.4,2010,AZE
+134,Bangladesh,2.4,2010,BGD
+134,Honduras,2.4,2010,HND
+134,Nigeria,2.4,2010,NGA
+134,Philippines,2.4,2010,PHL
+134,Sierra Leone,2.4,2010,SLE
+134,Togo,2.4,2010,TGO
+134,Ukraine,2.4,2010,UKR
+134,Zimbabwe,2.4,2010,ZWE
+143,Maldives,2.3,2010,MDV
+143,Mauritania,2.3,2010,MRT
+143,Pakistan,2.3,2010,PAK
+146,Cameroon,2.2,2010,CMR
+146,Côte d´Ivoire,2.2,2010,CIV
+146,Haiti,2.2,2010,HTI
+146,Iran,2.2,2010,IRN
+146,Libya,2.2,2010,LBY
+146,Nepal,2.2,2010,NPL
+146,Paraguay,2.2,2010,PRY
+146,Yemen,2.2,2010,YEM
+154,Cambodia,2.1,2010,KHM
+154,Central African Republic,2.1,2010,CAF
+154,Comoros,2.1,2010,COM
+154,Congo-Brazzaville,2.1,2010,COG
+154,Guinea-Bissau,2.1,2010,GNB
+154,Kenya,2.1,2010,KEN
+154,Laos,2.1,2010,LAO
+154,Papua New Guinea,2.1,2010,PNG
+154,Russia,2.1,2010,RUS
+154,Tajikistan,2.1,2010,TJK
+164,Democratic Republic of Congo,2,2010,COD
+164,Guinea,2,2010,GIN
+164,Kyrgyzstan,2,2010,KGZ
+164,Venezuela,2,2010,VEN
+168,Angola,1.9,2010,AGO
+168,Equatorial Guinea,1.9,2010,GNQ
+170,Burundi,1.8,2010,BDI
+171,Chad,1.7,2010,TCD
+172,Sudan,1.6,2010,SDN
+172,Turkmenistan,1.6,2010,TKM
+172,Uzbekistan,1.6,2010,UZB
+175,Iraq,1.5,2010,IRQ
+176,Afghanistan,1.4,2010,AFG
+176,Myanmar,1.4,2010,MMR
+178,Somalia,1.1,2010,SOM

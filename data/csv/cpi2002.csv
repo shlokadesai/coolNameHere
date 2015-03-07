@@ -1,103 +1,103 @@
-Rank,Country,CPI,Year
-1,Finland,9.7,2002
-2,Denmark,9.5,2002
-2,New Zealand,9.5,2002
-4,Iceland,9.4,2002
-5,Singapore,9.3,2002
-5,Sweden,9.3,2002
-7,Canada,9,2002
-7,Luxembourg,9,2002
-7,Netherlands,9,2002
-10,United Kingdom,8.7,2002
-11,Australia,8.6,2002
-12,Norway,8.5,2002
-12,Switzerland,8.5,2002
-14,Hong Kong,8.2,2002
-15,Austria,7.8,2002
-16,USA,7.7,2002
-17,Chile,7.5,2002
-18,Germany,7.3,2002
-18,Israel,7.3,2002
-20,Belgium,7.1,2002
-20,Japan,7.1,2002
-20,Spain,7.1,2002
-23,Ireland,6.9,2002
-24,Botswana,6.4,2002
-25,France,6.3,2002
-25,Portugal,6.3,2002
-27,Slovenia,6,2002
-28,Namibia,5.7,2002
-29,Estonia,5.6,2002
-29,Taiwan,5.6,2002
-31,Italy,5.2,2002
-32,Uruguay,5.1,2002
-33,Hungary,4.9,2002
-33,Malaysia,4.9,2002
-33,Trinidad & Tobago,4.9,2002
-36,Belarus,4.8,2002
-36,Lithuania,4.8,2002
-36,South Africa,4.8,2002
-36,Tunisia,4.8,2002
-40,Costa Rica,4.5,2002
-40,Jordan,4.5,2002
-40,Mauritius,4.5,2002
-40,South Korea,4.5,2002
-44,Greece,4.2,2002
-45,Brazil,4,2002
-45,Bulgaria,4,2002
-45,Jamaica,4,2002
-45,Peru,4,2002
-45,Poland,4,2002
-50,Ghana,3.9,2002
-51,Croatia,3.8,2002
-52,Czech Republic,3.7,2002
-52,Latvia,3.7,2002
-52,Morocco,3.7,2002
-52,Slovak Republic,3.7,2002
-52,Sri Lanka,3.7,2002
-57,Colombia,3.6,2002
-57,Mexico,3.6,2002
-59,China,3.5,2002
-59,Dominican Rep.,3.5,2002
-59,Ethiopia,3.5,2002
-62,Egypt,3.4,2002
-62,El Salvador,3.4,2002
-64,Thailand,3.2,2002
-64,Turkey,3.2,2002
-66,Senegal,3.1,2002
-67,Panama,3,2002
-68,Malawi,2.9,2002
-68,Uzbekistan,2.9,2002
-70,Argentina,2.8,2002
-71,Cote d'Ivoire,2.7,2002
-71,Honduras,2.7,2002
-71,India,2.7,2002
-71,Russia,2.7,2002
-71,Tanzania,2.7,2002
-71,Zimbabwe,2.7,2002
-77,Pakistan,2.6,2002
-77,Philippines,2.6,2002
-77,Romania,2.6,2002
-77,Zambia,2.6,2002
-81,Albania,2.5,2002
-81,Guatemala,2.5,2002
-81,Nicaragua,2.5,2002
-81,Venezuela,2.5,2002
-85,Georgia,2.4,2002
-85,Ukraine,2.4,2002
-85,Vietnam,2.4,2002
-88,Kazakhstan,2.3,2002
-89,Bolivia,2.2,2002
-89,Cameroon,2.2,2002
-89,Ecuador,2.2,2002
-89,Haiti,2.2,2002
-93,Moldova,2.1,2002
-93,Uganda,2.1,2002
-95,Azerbaijan,2,2002
-96,Indonesia,1.9,2002
-96,Kenya,1.9,2002
-98,Angola,1.7,2002
-98,Madagascar,1.7,2002
-98,Paraguay,1.7,2002
-101,Nigeria,1.6,2002
-102,Bangladesh,1.2,2002
+Rank,Country,CPI,Year,ID
+1,Finland,9.7,2002,FIN
+2,Denmark,9.5,2002,DNK
+2,New Zealand,9.5,2002,NZL
+4,Iceland,9.4,2002,ISL
+5,Singapore,9.3,2002,SGP
+5,Sweden,9.3,2002,SWE
+7,Canada,9,2002,CAN
+7,Luxembourg,9,2002,LUX
+7,Netherlands,9,2002,NLD
+10,United Kingdom,8.7,2002,GBR
+11,Australia,8.6,2002,AUS
+12,Norway,8.5,2002,NOR
+12,Switzerland,8.5,2002,CHE
+14,Hong Kong,8.2,2002,HKG
+15,Austria,7.8,2002,AUT
+16,USA,7.7,2002,USA
+17,Chile,7.5,2002,CHL
+18,Germany,7.3,2002,DEU
+18,Israel,7.3,2002,ISR
+20,Belgium,7.1,2002,BEL
+20,Japan,7.1,2002,JPN
+20,Spain,7.1,2002,ESP
+23,Ireland,6.9,2002,IRL
+24,Botswana,6.4,2002,BWA
+25,France,6.3,2002,FRA
+25,Portugal,6.3,2002,PRT
+27,Slovenia,6,2002,SVN
+28,Namibia,5.7,2002,NAM
+29,Estonia,5.6,2002,EST
+29,Taiwan,5.6,2002,TWN
+31,Italy,5.2,2002,ITA
+32,Uruguay,5.1,2002,URY
+33,Hungary,4.9,2002,HUN
+33,Malaysia,4.9,2002,MYS
+33,Trinidad & Tobago,4.9,2002,TTO
+36,Belarus,4.8,2002,BLR
+36,Lithuania,4.8,2002,LTU
+36,South Africa,4.8,2002,ZAF
+36,Tunisia,4.8,2002,TUN
+40,Costa Rica,4.5,2002,CRI
+40,Jordan,4.5,2002,JOR
+40,Mauritius,4.5,2002,MUS
+40,South Korea,4.5,2002,KOR
+44,Greece,4.2,2002,GRC
+45,Brazil,4,2002,BRA
+45,Bulgaria,4,2002,BGR
+45,Jamaica,4,2002,JAM
+45,Peru,4,2002,PER
+45,Poland,4,2002,POL
+50,Ghana,3.9,2002,GHA
+51,Croatia,3.8,2002,HRV
+52,Czech Republic,3.7,2002,CZE
+52,Latvia,3.7,2002,LVA
+52,Morocco,3.7,2002,MAR
+52,Slovak Republic,3.7,2002,SVK
+52,Sri Lanka,3.7,2002,LKA
+57,Colombia,3.6,2002,COL
+57,Mexico,3.6,2002,MEX
+59,China,3.5,2002,CHN
+59,Dominican Rep.,3.5,2002,DOM
+59,Ethiopia,3.5,2002,ETH
+62,Egypt,3.4,2002,EGY
+62,El Salvador,3.4,2002,SLV
+64,Thailand,3.2,2002,THA
+64,Turkey,3.2,2002,TUR
+66,Senegal,3.1,2002,SEN
+67,Panama,3,2002,PAN
+68,Malawi,2.9,2002,MWI
+68,Uzbekistan,2.9,2002,UZB
+70,Argentina,2.8,2002,ARG
+71,Cote d'Ivoire,2.7,2002,CIV
+71,Honduras,2.7,2002,HND
+71,India,2.7,2002,IND
+71,Russia,2.7,2002,RUS
+71,Tanzania,2.7,2002,TZA
+71,Zimbabwe,2.7,2002,ZWE
+77,Pakistan,2.6,2002,PAK
+77,Philippines,2.6,2002,PHL
+77,Romania,2.6,2002,ROU
+77,Zambia,2.6,2002,ZMB
+81,Albania,2.5,2002,ALB
+81,Guatemala,2.5,2002,GTM
+81,Nicaragua,2.5,2002,NIC
+81,Venezuela,2.5,2002,VEN
+85,Georgia,2.4,2002,GEO
+85,Ukraine,2.4,2002,UKR
+85,Vietnam,2.4,2002,VNM
+88,Kazakhstan,2.3,2002,KAZ
+89,Bolivia,2.2,2002,BOL
+89,Cameroon,2.2,2002,CMR
+89,Ecuador,2.2,2002,ECU
+89,Haiti,2.2,2002,HTI
+93,Moldova,2.1,2002,MDA
+93,Uganda,2.1,2002,UGA
+95,Azerbaijan,2,2002,AZE
+96,Indonesia,1.9,2002,IDN
+96,Kenya,1.9,2002,KEN
+98,Angola,1.7,2002,AGO
+98,Madagascar,1.7,2002,MDG
+98,Paraguay,1.7,2002,PRY
+101,Nigeria,1.6,2002,NGA
+102,Bangladesh,1.2,2002,BGD
