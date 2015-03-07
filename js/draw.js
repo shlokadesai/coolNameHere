@@ -14,4 +14,18 @@ var map = new Datamap({
     }
 });
 
+function updateMap(year) {
+    dataset = {};
+    d3.csv("cpi" + year + ".csv", function(data){
+        var cpiExtend = d3.extent(data, function(row) { return row.CPI; });
+        dataset[data.Id] = colorScale(data.CPI);
+    });
+    map.updateChoropleth(dataset);
+}
+
+function colorScale(cpi) {
+    var colorScaleGYR(d3.scale.linear().domain([0,5,10]).range("#fc8d59","#ffffbf","#91cf60"));
+    return colorScaleGYR(cpi);
+}
+
 
