@@ -9,7 +9,7 @@ var map = new Datamap({
     geographyConfig: {
         highlightFillColor: '#4F75B4', // dark blue
         popupTemplate: function(geo, data) {
-            console.log(geo);
+            //console.log(geo);
             return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong></div>';
         }
     }
@@ -17,16 +17,26 @@ var map = new Datamap({
 
 function updateMap(year) {
     dataset = {};
-    d3.csv("cpi" + year + ".csv", function(data){
-        dataset[data.Id] = colorScale(data.CPI);
-        mapData[data.Id] = data.CPI;
+    d3.csv("data/csv/cpi" + year + ".csv", function(data){
+        for (i = 0; i < data.length; i++) {
+            //console.log(data[i]);
+            dataset[data[i].ID] = colorScale(data[i].CPI);
+            mapData[data[i].ID] = data.CPI;
+            console.log(dataset);
+        }
+        console.log(dataset + "!");
+        map.updateChoropleth(dataset);
     });
-    map.updateChoropleth(dataset);
+    
 }
 
 function colorScale(cpi) {
-    var colorScaleGYR = (d3.scale.linear().domain([0,5,10]).range("#fc8d59","#ffffbf","#91cf60"));
+    console.log(cpi);
+    var colorScaleGYR = d3.scale.linear().domain([0,5,10]).range(["#fc8d59","#ffffbf","#91cf60"]);
+    console.log(colorScaleGYR(cpi));
     return colorScaleGYR(cpi);
 }
+
+updateMap(2011);
 
 
