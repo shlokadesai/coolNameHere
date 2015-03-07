@@ -92,21 +92,12 @@ class User(db.Model, UserMixin):
         super(User, self).__init__(**kwargs)
         self.update_users()
 
-    def update_users(self, profile=None):
+    def update_users(self):
         if self.role is None:
             if self.email == current_app.config['DM_ADMIN']:
                 self.role = Role.query.filter_by(permissions=0xfff).first()
             else:
                 self.role = Role.query.filter_by(default=True).first()
-        if profile is None:
-            # create a new profile for the user
-            profile = User_Profile(self)
-            db.session.add(profile)
-            db.session.commit()
-        if self.profile is None:
-            self.profile = profile
-            db.session.add(self)
-            db.session.commit()
         
 
 
