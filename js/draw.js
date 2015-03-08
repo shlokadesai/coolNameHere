@@ -2,7 +2,8 @@ var mapData = {};
 var curYear = 2011;
 /* generate bar chart */
 var barchart = d3.select("#barchart").append("svg");
-barchart.attr("height", "200px").attr("width", "1000px").attr("id", "barchart_svg");
+barchart.attr("height", "200px").attr("width", "500px").attr("id", "barchart_svg");
+
 
 
 /* generate map */
@@ -18,7 +19,7 @@ var map = new Datamap({
         popupTemplate: function(geo, data) {
             if (mapData[geo.id])
                 return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : '+mapData[geo.id]+ 
-                        '<br/>year : ' + curYear +'</div>';
+                        '<br/>year : ' + curYear +'</div><script>drawBarChart('+geo.id+');</script>';
             else
                 return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : N/A<br/>year : ' + curYear + '</div>';
         }
@@ -55,52 +56,56 @@ function colorScale(cpi) {
 }
 
 function drawBarChart(countryID) {
-    var dataset = {};
-    var height =200;
-    var width = 1000;
-    var xScale = d3.scale.linear().domain([1995,2015]).range([30, 800]);
-    var yScale = d3.scale.linear().domain([0,10]).range([200, 20]);
-    for (y = 1995; y < 2015; y++) {
-        d3.csv("data/csv/cpi" + y + ".csv", function(csv){
-            for(i = 0; i < csv.length; i++) {
-                var entry = csv[i];
-                if (entry.ID == countryID) {
-                    d3.select("#barchart_svg")
-                        .append("rect")
-                        .attr("x", function(){
-                            return (width / 20) * (entry.Year - 1995) * 0.95 + 30;
-                        })
-                        .attr("y", function(){
-                            return yScale(entry.CPI);
-                        })
-                        .attr("height", function(){
-                            return 180 - yScale(entry.CPI);
-                        })
-                        .attr("width", function(){
-                            return 0.90 * width / 20;
-                        })
-                        .attr("fill", '#4F75B4')
-                } 
-            }
-        });
-    }
-    var xAxis = d3.svg.axis().scale(xScale);
-    var yAxis = d3.svg.axis().scale(yScale);
-    yAxis.orient("left");
-    var xAxisSel = 
-    d3.select("svg") // or something else that selects the SVG element in your visualizations
-        .append("g") // create a group node
-        .attr("transform", "translate(0, 180)")
-        .call(xAxis); // call the axis generator
+    var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 500 - margin.left - margin.right,
+    height = 200 - margin.top - margin.bottom;
+    d3.csv("data/rapeDataTest.csv", function(csv){
+        console.log("hello!");
+        var yearExtent = d3.extent(csv, function(row){ return +row.Year; })
+        var maxCount = d3.max(csv, function(row){return +row.Count;}); 
+        var xScale = d3.scale.ordinal().domain(csv.map(function(d){return d.Year;})).rangeBands([54, width]);
+        var yScale = d3.scale.linear().domain([0,maxCount]).range([height,0]);
+        var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+        var yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(5);;
+        
+        for(i = 0; i < csv.length; i++) {
+            var entry = csv[i];
+            console.log(entry);
+            if (entry.ID == countryID) {
 
-    d3.select("svg") // or something else that selects the SVG element in your visualizations
-        .append("g") // create a group node
-        .attr("transform", "translate(30, -20)")
-    .call(yAxis); // call the axis generator
+                d3.select("#barchart_svg")
+                    .append("rect")
+                    .attr("x", function(){
+                        return xScale(entry.Year)+0.02*xScale.rangeBand();
+                    })
+                    .attr("y", function(){
+                        return yScale(entry.Count);
+                    })
+                    .attr("height", function(){
+                        return height - yScale(entry.Count);
+                    })
+                    .attr("width", function(){
+                        return xScale.rangeBand()*0.96;
+                    })
+                    .attr("fill", '#4F75B4')
+            } 
+        }
+        var xAxisSel = 
+        d3.select("svg") // or something else that selects the SVG element in your visualizations
+            .append("g") // create a group node
+            .attr("transform", "translate(0, "+height+")")
+            .attr("class", "axis")
+            .call(xAxis); // call the axis generator
+        var yAxisSel =
+        d3.select("svg") // or something else that selects the SVG element in your visualizations
+            .append("g") // create a group node
+            .attr("transform", "translate(60,0)")
+            .attr("class", "axis")
+            .call(yAxis); // call the axis generator
+    });
 }
 
-
-//drawBarChart("USA");
+drawBarChart("USA");
 updateMap(2010);
 
 
