@@ -29,7 +29,7 @@ function updateMap(year) {
     var dataset = {};
     d3.csv("data/rapeDataTest.csv", function(data){
         var max = d3.max(data, function(row){
-            return row.Count;
+            return +row.Count;
         });
         console.log(max);
         var colorScaleGYR = d3.scale.linear().domain([-1,0,max/2,max]).range(['rgba(200,200,200,0.5)',"#ffeda0","#feb24c", "#f03b20"]);
