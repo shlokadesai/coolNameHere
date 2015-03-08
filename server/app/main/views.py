@@ -16,9 +16,17 @@ def after_request(response):
     return response
 
 
-@main.route('/', methods=['GET', 'POST'])
+@main.route('/')
 def index():
-    return render_template('index.html', name=session.get('name'), victimForm=VictimForm())
+    return render_template('index.html', name=session.get('name'))
+
+@main.route('/index2')
+def index2():
+    return render_template('index2.html', name=session.get('name'))
+	
+@main.route('/gethelp', methods=['GET', 'POST'])
+def gethelp():
+    return render_template('getHelp.html', name=session.get('name'), victimForm=VictimForm())
 
 @main.route('/signup', methods=['GET', 'POST'])
 def signup():
