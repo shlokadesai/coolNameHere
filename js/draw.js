@@ -88,6 +88,7 @@ function drawBarChart(countryID) {
                         return xScale.rangeBand()*0.96;
                     })
                     .attr("fill", '#4F75B4')
+                    .attr("id", entry.Year)
             } 
         }
         var xAxisSel = 
