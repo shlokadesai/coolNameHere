@@ -1,4 +1,4 @@
-from flask import render_template, session, redirect, url_for, current_app, abort
+from flask import render_template, session, redirect, url_for, current_app, abort, send_from_directory
 from ..email import send_email
 from . import main
 from .forms import NameForm, VictimForm, OrganizationForm
@@ -20,9 +20,14 @@ def after_request(response):
 def index():
     return render_template('index.html', name=session.get('name'))
 
-@main.route('/index2')
+@main.route('/index2', methods=['GET', 'POST'])
 def index2():
     return render_template('index2.html', name=session.get('name'))
+
+@main.route('/static/data/<filename>', methods=['GET', 'POST'])
+def readData(filename):
+    return current_app.send_static_file('data/' + filename)
+
 	
 @main.route('/gethelp', methods=['GET', 'POST'])
 def gethelp():

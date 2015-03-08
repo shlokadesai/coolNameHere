@@ -6,7 +6,7 @@ var margin = {top: 20, right: 20, bottom: 0, left: 40},
 /* generate bar chart */
 var barchart = d3.select("#barchart").append("svg");
 barchart.attr("height", "150px").attr("width", "1000px").attr("id", "barchart_svg");
-d3.csv("data/rapeDataSum.csv", function(data){
+d3.csv("static/data/rapeDataSum.csv", function(data){
     var max = d3.max(data, function(row){
         //console.log(row);
         return +row.Count;
@@ -88,7 +88,7 @@ function updateMap(year) {
     console.log(year);
     var dataset = {};
     d3.selectAll(".datamaps-subunit").attr("fill","rgba(200,200,200,0.5)");
-    d3.csv("data/rapeDataTest.csv", function(data){
+    d3.csv("static/data/rapeDataTest.csv", function(data){
         var max = d3.max(data, function(row){
             return +row.Count;
         });
@@ -119,7 +119,7 @@ function colorScale(cpi) {
 }
 
 function updateBarChart(countryID) {
-    d3.csv("data/rapeDataTest.csv", function(csv){
+    d3.csv("static/data/rapeDataTest.csv", function(csv){
         console.log(countryID);
         var yearExtent = d3.extent(csv, function(row){ return +row.Year; })
         var maxCount = d3.max(csv, function(row){return +row.Count;}); 

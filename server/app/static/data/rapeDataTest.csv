@@ -1,0 +1,1261 @@
+Country,ID,Count,Rate,Year
+Burundi,BDI,-1,-1,2003
+Kenya,KEN,-1,-1,2003
+Mauritius,MUS,53,4.4,2003
+Mozambique,MOZ,-1,-1,2003
+Rwanda,RWA,-1,-1,2003
+Uganda,UGA,537,2,2003
+Zimbabwe,ZWE,3858,30.4,2003
+Cameroon,CMR,451,2.6,2003
+Sao Tome and Principe,STP,-1,-1,2003
+Algeria,DZA,723,2.2,2003
+Egypt,EGY,20,0,2003
+Morocco,MAR,618,2.1,2003
+Sudan,SDN,-1,-1,2003
+Botswana,BWA,-1,-1,2003
+Lesotho,LSO,-1,-1,2003
+Swaziland,SWZ,785,72.2,2003
+Guinea,GIN,-1,-1,2003
+Nigeria,NGA,-1,-1,2003
+Senegal,SEN,-1,-1,2003
+Sierra Leone,SLE,-1,-1,2003
+Bermuda,BMU,36,-1,2003
+Canada,CAN,531,1.7,2003
+United States of America,USA,93883,32.1,2003
+Bahamas,BHS,-1,-1,2003
+Barbados,BRB,-1,-1,2003
+Dominican Republic,DOM,-1,-1,2003
+Grenada,GRD,-1,-1,2003
+Jamaica,JAM,-1,-1,2003
+Saint Kitts and Nevis,KNA,-1,-1,2003
+Saint Vincent and the Grenadines,VCT,-1,-1,2003
+Trinidad and Tobago,TTO,-1,-1,2003
+Belize,BLZ,-1,-1,2003
+Costa Rica,CRI,-1,-1,2003
+El Salvador,SLV,-1,-1,2003
+Guatemala,GTM,-1,-1,2003
+Honduras,HND,-1,-1,2003
+Mexico,MEX,-1,-1,2003
+Nicaragua,NIC,-1,-1,2003
+Panama,PAN,-1,-1,2003
+Argentina,ARG,-1,-1,2003
+Bolivia,BOL,-1,-1,2003
+Brazil,BRA,-1,-1,2003
+Chile,CHL,-1,-1,2003
+Colombia,COL,-1,-1,2003
+Ecuador,ECU,1488,11.2,2003
+Guyana,GUY,-1,-1,2003
+Paraguay,PRY,-1,-1,2003
+Peru,PER,5991,22.1,2003
+Suriname,SUR,186,38.2,2003
+Uruguay,URY,297,8.9,2003
+Kazakhstan,KAZ,-1,-1,2003
+Kyrgyzstan,KGZ,296,5.9,2003
+Tajikistan,TJK,-1,-1,2003
+Turkmenistan,TKM,37,0.8,2003
+Hong Kong Special Administrative Region of China,HKG,70,1,2003
+Japan,JPN,2472,2,2003
+Mongolia,MNG,386,15.6,2003
+Republic of Korea,KOR,5899,12.7,2003
+Brunei Darussalam,BRN,24,6.8,2003
+Indonesia,IDN,-1,-1,2003
+Philippines,PHL,3084,3.7,2003
+Singapore,SGP,110,2.6,2003
+Thailand,THA,-1,-1,2003
+Bangladesh,BGD,-1,-1,2003
+India,IND,-1,-1,2003
+Maldives,MDV,2,0.7,2003
+Nepal,NPL,-1,-1,2003
+Sri Lanka,LKA,1378,7.1,2003
+Armenia,ARM,3,0.1,2003
+Azerbaijan,AZE,49,0.6,2003
+Bahrain,BHR,19,2.5,2003
+Cyprus,CYP,32,3.2,2003
+Georgia,GEO,52,1.1,2003
+Israel,ISR,-1,-1,2003
+Jordan,JOR,-1,-1,2003
+Kuwait,KWT,-1,-1,2003
+Lebanon,LBN,-1,-1,2003
+Oman,OMN,-1,-1,2003
+Qatar,QAT,11,1.7,2003
+State of Palestine,PSE,85,2.5,2003
+Syrian Arab Republic,SYR,131,0.8,2003
+Turkey,TUR,1604,2.4,2003
+United Arab Emirates,ARE,44,1.3,2003
+Yemen,YEM,-1,-1,2003
+Belarus,BLR,432,4.4,2003
+Bulgaria,BGR,611,7.8,2003
+Czech Republic,CZE,646,6.3,2003
+Hungary,HUN,535,5.3,2003
+Poland,POL,2322,6.1,2003
+Republic of Moldova,MDA,272,7,2003
+Romania,ROU,983,4.4,2003
+Russian Federation,RUS,8185,5.6,2003
+Slovakia,SVK,233,4.3,2003
+Ukraine,UKR,1048,2.2,2003
+Denmark,DNK,472,8.8,2003
+Estonia,EST,107,8,2003
+Finland,FIN,573,11,2003
+Iceland,ISL,69,23.8,2003
+Ireland,IRL,370,9.2,2003
+Latvia,LVA,123,5.4,2003
+Lithuania,LTU,278,8.2,2003
+Norway,NOR,706,15.5,2003
+Sweden,SWE,2235,25,2003
+United Kingdom,GBR,14430,-1,2003
+Albania,ALB,-1,-1,2003
+Andorra,AND,-1,-1,2003
+Bosnia and Herzegovina,BIH,-1,-1,2003
+Croatia,HRV,213,4.8,2003
+Greece,GRC,231,2.1,2003
+Malta,MLT,11,2.7,2003
+Montenegro,MNE,-1,-1,2003
+Portugal,PRT,392,3.8,2003
+Serbia,SRB,-1,-1,2003
+Slovenia,SVN,70,3.5,2003
+Spain,ESP,-1,-1,2003
+Austria,AUT,-1,-1,2003
+Belgium,BEL,2850,27.4,2003
+France,FRA,10408,17.2,2003
+Germany,DEU,8766,10.5,2003
+Liechtenstein,LIE,0,-1,2003
+Luxembourg,LUX,-1,-1,2003
+Monaco,MCO,1,-1,2003
+Netherlands,NLD,1700,10.5,2003
+Switzerland,CHE,547,7.5,2003
+New Zealand,NZL,-1,-1,2003
+Solomon Islands,SLB,-1,-1,2003
+Burundi,BDI,-1,-1,2004
+Kenya,KEN,1440,4.1,2004
+Mauritius,MUS,40,3.3,2004
+Mozambique,MOZ,102,0.5,2004
+Rwanda,RWA,-1,-1,2004
+Uganda,UGA,549,2,2004
+Zimbabwe,ZWE,4997,39.4,2004
+Cameroon,CMR,555,3.1,2004
+Sao Tome and Principe,STP,-1,-1,2004
+Algeria,DZA,630,1.9,2004
+Egypt,EGY,21,0,2004
+Morocco,MAR,453,1.5,2004
+Sudan,SDN,-1,-1,2004
+Botswana,BWA,-1,-1,2004
+Lesotho,LSO,-1,-1,2004
+Swaziland,SWZ,849,77.6,2004
+Guinea,GIN,-1,-1,2004
+Nigeria,NGA,-1,-1,2004
+Senegal,SEN,-1,-1,2004
+Sierra Leone,SLE,-1,-1,2004
+Bermuda,BMU,43,-1,2004
+Canada,CAN,587,1.8,2004
+United States of America,USA,95089,32.2,2004
+Bahamas,BHS,-1,-1,2004
+Barbados,BRB,84,30.9,2004
+Dominican Republic,DOM,-1,-1,2004
+Grenada,GRD,-1,-1,2004
+Jamaica,JAM,-1,-1,2004
+Saint Kitts and Nevis,KNA,-1,-1,2004
+Saint Vincent and the Grenadines,VCT,66,60.8,2004
+Trinidad and Tobago,TTO,305,23.6,2004
+Belize,BLZ,-1,-1,2004
+Costa Rica,CRI,-1,-1,2004
+El Salvador,SLV,-1,-1,2004
+Guatemala,GTM,363,2.9,2004
+Honduras,HND,-1,-1,2004
+Mexico,MEX,13650,12.5,2004
+Nicaragua,NIC,-1,-1,2004
+Panama,PAN,629,19,2004
+Argentina,ARG,-1,-1,2004
+Bolivia,BOL,-1,-1,2004
+Brazil,BRA,-1,-1,2004
+Chile,CHL,-1,-1,2004
+Colombia,COL,1188,2.8,2004
+Ecuador,ECU,1246,9.2,2004
+Guyana,GUY,-1,-1,2004
+Paraguay,PRY,-1,-1,2004
+Peru,PER,5721,20.9,2004
+Suriname,SUR,223,45.2,2004
+Uruguay,URY,327,9.8,2004
+Kazakhstan,KAZ,-1,-1,2004
+Kyrgyzstan,KGZ,278,5.5,2004
+Tajikistan,TJK,53,0.8,2004
+Turkmenistan,TKM,36,0.8,2004
+Hong Kong Special Administrative Region of China,HKG,92,1.3,2004
+Japan,JPN,2176,1.7,2004
+Mongolia,MNG,378,15.1,2004
+Republic of Korea,KOR,6321,13.5,2004
+Brunei Darussalam,BRN,26,7.2,2004
+Indonesia,IDN,-1,-1,2004
+Philippines,PHL,2918,3.5,2004
+Singapore,SGP,103,2.4,2004
+Thailand,THA,-1,-1,2004
+Bangladesh,BGD,-1,-1,2004
+India,IND,18233,1.6,2004
+Maldives,MDV,1,0.3,2004
+Nepal,NPL,-1,-1,2004
+Sri Lanka,LKA,1432,7.3,2004
+Armenia,ARM,9,0.3,2004
+Azerbaijan,AZE,25,0.3,2004
+Bahrain,BHR,27,3.3,2004
+Cyprus,CYP,41,4,2004
+Georgia,GEO,62,1.4,2004
+Israel,ISR,1319,20.4,2004
+Jordan,JOR,-1,-1,2004
+Kuwait,KWT,98,4.5,2004
+Lebanon,LBN,-1,-1,2004
+Oman,OMN,-1,-1,2004
+Qatar,QAT,13,1.8,2004
+State of Palestine,PSE,98,2.8,2004
+Syrian Arab Republic,SYR,97,0.5,2004
+Turkey,TUR,1638,2.5,2004
+United Arab Emirates,ARE,52,1.4,2004
+Yemen,YEM,-1,-1,2004
+Belarus,BLR,386,4,2004
+Bulgaria,BGR,529,6.8,2004
+Czech Republic,CZE,687,6.7,2004
+Hungary,HUN,267,2.6,2004
+Poland,POL,2176,5.7,2004
+Republic of Moldova,MDA,297,7.8,2004
+Romania,ROU,953,4.3,2004
+Russian Federation,RUS,8848,6.1,2004
+Slovakia,SVK,224,4.2,2004
+Ukraine,UKR,964,2,2004
+Denmark,DNK,562,10.4,2004
+Estonia,EST,121,9.1,2004
+Finland,FIN,595,11.4,2004
+Iceland,ISL,51,17.4,2004
+Ireland,IRL,409,10,2004
+Latvia,LVA,319,14.1,2004
+Lithuania,LTU,260,7.8,2004
+Norway,NOR,739,16.1,2004
+Sweden,SWE,2261,25.2,2004
+United Kingdom,GBR,15273,-1,2004
+Albania,ALB,-1,-1,2004
+Andorra,AND,-1,-1,2004
+Bosnia and Herzegovina,BIH,-1,-1,2004
+Croatia,HRV,165,3.8,2004
+Greece,GRC,240,2.2,2004
+Malta,MLT,13,3.1,2004
+Montenegro,MNE,-1,-1,2004
+Portugal,PRT,338,3.2,2004
+Serbia,SRB,-1,-1,2004
+Slovenia,SVN,87,4.4,2004
+Spain,ESP,-1,-1,2004
+Austria,AUT,687,8.4,2004
+Belgium,BEL,2944,28.2,2004
+France,FRA,10506,17.2,2004
+Germany,DEU,8831,10.5,2004
+Liechtenstein,LIE,1,-1,2004
+Luxembourg,LUX,-1,-1,2004
+Monaco,MCO,-1,-1,2004
+Netherlands,NLD,1800,11.1,2004
+Switzerland,CHE,573,7.8,2004
+New Zealand,NZL,-1,-1,2004
+Solomon Islands,SLB,170,37.1,2004
+Burundi,BDI,-1,-1,2005
+Kenya,KEN,1365,3.8,2005
+Mauritius,MUS,38,3.1,2005
+Mozambique,MOZ,64,0.3,2005
+Rwanda,RWA,-1,-1,2005
+Uganda,UGA,732,2.5,2005
+Zimbabwe,ZWE,4790,37.7,2005
+Cameroon,CMR,592,3.3,2005
+Sao Tome and Principe,STP,-1,-1,2005
+Algeria,DZA,376,1.1,2005
+Egypt,EGY,44,0.1,2005
+Morocco,MAR,475,1.6,2005
+Sudan,SDN,-1,-1,2005
+Botswana,BWA,-1,-1,2005
+Lesotho,LSO,-1,-1,2005
+Swaziland,SWZ,-1,-1,2005
+Guinea,GIN,-1,-1,2005
+Nigeria,NGA,-1,-1,2005
+Senegal,SEN,301,2.7,2005
+Sierra Leone,SLE,-1,-1,2005
+Bermuda,BMU,-1,-1,2005
+Canada,CAN,565,1.8,2005
+United States of America,USA,94347,31.6,2005
+Bahamas,BHS,87,26.4,2005
+Barbados,BRB,77,28.1,2005
+Dominican Republic,DOM,-1,-1,2005
+Grenada,GRD,23,22.3,2005
+Jamaica,JAM,-1,-1,2005
+Saint Kitts and Nevis,KNA,-1,-1,2005
+Saint Vincent and the Grenadines,VCT,87,80,2005
+Trinidad and Tobago,TTO,334,25.8,2005
+Belize,BLZ,48,17.7,2005
+Costa Rica,CRI,-1,-1,2005
+El Salvador,SLV,1185,19.5,2005
+Guatemala,GTM,314,2.5,2005
+Honduras,HND,-1,-1,2005
+Mexico,MEX,13550,12.2,2005
+Nicaragua,NIC,1322,24.2,2005
+Panama,PAN,771,22.9,2005
+Argentina,ARG,3154,8.2,2005
+Bolivia,BOL,1137,12.2,2005
+Brazil,BRA,-1,-1,2005
+Chile,CHL,-1,-1,2005
+Colombia,COL,2627,6.1,2005
+Ecuador,ECU,1499,10.9,2005
+Guyana,GUY,-1,-1,2005
+Paraguay,PRY,-1,-1,2005
+Peru,PER,6268,22.6,2005
+Suriname,SUR,-1,-1,2005
+Uruguay,URY,-1,-1,2005
+Kazakhstan,KAZ,1583,10.5,2005
+Kyrgyzstan,KGZ,298,5.9,2005
+Tajikistan,TJK,54,0.8,2005
+Turkmenistan,TKM,27,0.6,2005
+Hong Kong Special Administrative Region of China,HKG,99,1.4,2005
+Japan,JPN,2076,1.6,2005
+Mongolia,MNG,320,12.7,2005
+Republic of Korea,KOR,-1,-1,2005
+Brunei Darussalam,BRN,24,6.5,2005
+Indonesia,IDN,-1,-1,2005
+Philippines,PHL,2962,3.5,2005
+Singapore,SGP,124,2.8,2005
+Thailand,THA,5071,7.7,2005
+Bangladesh,BGD,11291,7.9,2005
+India,IND,18359,1.6,2005
+Maldives,MDV,-1,-1,2005
+Nepal,NPL,191,0.8,2005
+Sri Lanka,LKA,-1,-1,2005
+Armenia,ARM,15,0.5,2005
+Azerbaijan,AZE,44,0.5,2005
+Bahrain,BHR,25,2.8,2005
+Cyprus,CYP,39,3.8,2005
+Georgia,GEO,141,3.2,2005
+Israel,ISR,1223,18.5,2005
+Jordan,JOR,78,1.5,2005
+Kuwait,KWT,108,4.7,2005
+Lebanon,LBN,39,1,2005
+Oman,OMN,-1,-1,2005
+Qatar,QAT,-1,-1,2005
+State of Palestine,PSE,105,2.9,2005
+Syrian Arab Republic,SYR,135,0.7,2005
+Turkey,TUR,1694,2.5,2005
+United Arab Emirates,ARE,62,1.5,2005
+Yemen,YEM,95,0.5,2005
+Belarus,BLR,483,5,2005
+Bulgaria,BGR,403,5.2,2005
+Czech Republic,CZE,596,5.8,2005
+Hungary,HUN,264,2.6,2005
+Poland,POL,1987,5.2,2005
+Republic of Moldova,MDA,280,7.4,2005
+Romania,ROU,1013,4.6,2005
+Russian Federation,RUS,9222,6.4,2005
+Slovakia,SVK,200,3.7,2005
+Ukraine,UKR,924,2,2005
+Denmark,DNK,475,8.8,2005
+Estonia,EST,179,13.5,2005
+Finland,FIN,593,11.3,2005
+Iceland,ISL,75,25.3,2005
+Ireland,IRL,451,10.8,2005
+Latvia,LVA,251,11.3,2005
+Lithuania,LTU,265,8.1,2005
+Norway,NOR,798,17.3,2005
+Sweden,SWE,3787,41.9,2005
+United Kingdom,GBR,15763,-1,2005
+Albania,ALB,49,1.5,2005
+Andorra,AND,-1,-1,2005
+Bosnia and Herzegovina,BIH,39,1,2005
+Croatia,HRV,142,3.2,2005
+Greece,GRC,177,1.6,2005
+Malta,MLT,7,1.7,2005
+Montenegro,MNE,8,1.3,2005
+Portugal,PRT,365,3.5,2005
+Serbia,SRB,89,0.9,2005
+Slovenia,SVN,58,2.9,2005
+Spain,ESP,2140,4.9,2005
+Austria,AUT,678,8.2,2005
+Belgium,BEL,3029,28.8,2005
+France,FRA,9993,16.3,2005
+Germany,DEU,8133,9.7,2005
+Liechtenstein,LIE,4,-1,2005
+Luxembourg,LUX,-1,-1,2005
+Monaco,MCO,3,-1,2005
+Netherlands,NLD,4990,30.6,2005
+Switzerland,CHE,646,8.7,2005
+New Zealand,NZL,994,24,2005
+Solomon Islands,SLB,65,13.9,2005
+Burundi,BDI,-1,-1,2006
+Kenya,KEN,1291,3.5,2006
+Mauritius,MUS,64,5.3,2006
+Mozambique,MOZ,46,0.2,2006
+Rwanda,RWA,-1,-1,2006
+Uganda,UGA,750,2.5,2006
+Zimbabwe,ZWE,4967,39,2006
+Cameroon,CMR,580,3.1,2006
+Sao Tome and Principe,STP,1,0.6,2006
+Algeria,DZA,352,1,2006
+Egypt,EGY,48,0.1,2006
+Morocco,MAR,1063,3.5,2006
+Sudan,SDN,-1,-1,2006
+Botswana,BWA,-1,-1,2006
+Lesotho,LSO,-1,-1,2006
+Swaziland,SWZ,-1,-1,2006
+Guinea,GIN,-1,-1,2006
+Nigeria,NGA,-1,-1,2006
+Senegal,SEN,159,1.4,2006
+Sierra Leone,SLE,-1,-1,2006
+Bermuda,BMU,-1,-1,2006
+Canada,CAN,570,1.7,2006
+United States of America,USA,94472,31.4,2006
+Bahamas,BHS,72,21.5,2006
+Barbados,BRB,75,27.3,2006
+Dominican Republic,DOM,-1,-1,2006
+Grenada,GRD,22,21.3,2006
+Jamaica,JAM,707,26.2,2006
+Saint Kitts and Nevis,KNA,-1,-1,2006
+Saint Vincent and the Grenadines,VCT,50,45.9,2006
+Trinidad and Tobago,TTO,259,19.9,2006
+Belize,BLZ,44,15.8,2006
+Costa Rica,CRI,1311,29.8,2006
+El Salvador,SLV,1140,18.7,2006
+Guatemala,GTM,289,2.2,2006
+Honduras,HND,-1,-1,2006
+Mexico,MEX,13894,12.4,2006
+Nicaragua,NIC,1524,27.6,2006
+Panama,PAN,792,23.1,2006
+Argentina,ARG,3264,8.4,2006
+Bolivia,BOL,1306,13.7,2006
+Brazil,BRA,23675,12.6,2006
+Chile,CHL,2865,17.4,2006
+Colombia,COL,3347,7.6,2006
+Ecuador,ECU,1484,10.6,2006
+Guyana,GUY,-1,-1,2006
+Paraguay,PRY,1285,21.4,2006
+Peru,PER,6569,23.4,2006
+Suriname,SUR,-1,-1,2006
+Uruguay,URY,222,6.7,2006
+Kazakhstan,KAZ,1584,10.4,2006
+Kyrgyzstan,KGZ,271,5.3,2006
+Tajikistan,TJK,56,0.8,2006
+Turkmenistan,TKM,27,0.6,2006
+Hong Kong Special Administrative Region of China,HKG,96,1.4,2006
+Japan,JPN,1948,1.5,2006
+Mongolia,MNG,314,12.3,2006
+Republic of Korea,KOR,-1,-1,2006
+Brunei Darussalam,BRN,28,7.5,2006
+Indonesia,IDN,-1,-1,2006
+Philippines,PHL,2584,3,2006
+Singapore,SGP,118,2.6,2006
+Thailand,THA,5308,8.1,2006
+Bangladesh,BGD,11682,8.1,2006
+India,IND,19348,1.7,2006
+Maldives,MDV,-1,-1,2006
+Nepal,NPL,210,0.8,2006
+Sri Lanka,LKA,-1,-1,2006
+Armenia,ARM,7,0.2,2006
+Azerbaijan,AZE,35,0.4,2006
+Bahrain,BHR,17,1.8,2006
+Cyprus,CYP,29,2.8,2006
+Georgia,GEO,167,3.8,2006
+Israel,ISR,1291,19.1,2006
+Jordan,JOR,110,2,2006
+Kuwait,KWT,125,5.2,2006
+Lebanon,LBN,19,0.5,2006
+Oman,OMN,-1,-1,2006
+Qatar,QAT,-1,-1,2006
+State of Palestine,PSE,-1,-1,2006
+Syrian Arab Republic,SYR,112,0.6,2006
+Turkey,TUR,1783,2.6,2006
+United Arab Emirates,ARE,72,1.5,2006
+Yemen,YEM,95,0.5,2006
+Belarus,BLR,353,3.7,2006
+Bulgaria,BGR,310,4.1,2006
+Czech Republic,CZE,530,5.2,2006
+Hungary,HUN,206,2,2006
+Poland,POL,2001,5.2,2006
+Republic of Moldova,MDA,268,7.2,2006
+Romania,ROU,1116,5.1,2006
+Russian Federation,RUS,8871,6.2,2006
+Slovakia,SVK,174,3.2,2006
+Ukraine,UKR,993,2.1,2006
+Denmark,DNK,527,9.7,2006
+Estonia,EST,153,11.6,2006
+Finland,FIN,613,11.6,2006
+Iceland,ISL,72,23.9,2006
+Ireland,IRL,371,8.8,2006
+Latvia,LVA,129,5.9,2006
+Lithuania,LTU,253,7.8,2006
+Norway,NOR,840,18,2006
+Sweden,SWE,4208,46.3,2006
+United Kingdom,GBR,15143,-1,2006
+Albania,ALB,40,1.3,2006
+Andorra,AND,-1,-1,2006
+Bosnia and Herzegovina,BIH,40,1,2006
+Croatia,HRV,187,4.3,2006
+Greece,GRC,182,1.6,2006
+Malta,MLT,17,4.1,2006
+Montenegro,MNE,11,1.8,2006
+Portugal,PRT,341,3.2,2006
+Serbia,SRB,115,1.2,2006
+Slovenia,SVN,55,2.7,2006
+Spain,ESP,2102,4.8,2006
+Austria,AUT,700,8.5,2006
+Belgium,BEL,3217,30.4,2006
+France,FRA,9784,15.8,2006
+Germany,DEU,8118,9.7,2006
+Liechtenstein,LIE,2,-1,2006
+Luxembourg,LUX,40,8.6,2006
+Monaco,MCO,2,-1,2006
+Netherlands,NLD,4790,29.3,2006
+Switzerland,CHE,639,8.5,2006
+New Zealand,NZL,1183,28.3,2006
+Solomon Islands,SLB,79,16.4,2006
+Burundi,BDI,-1,-1,2007
+Kenya,KEN,876,2.3,2007
+Mauritius,MUS,77,6.3,2007
+Mozambique,MOZ,41,0.2,2007
+Rwanda,RWA,-1,-1,2007
+Uganda,UGA,599,1.9,2007
+Zimbabwe,ZWE,4762,37.4,2007
+Cameroon,CMR,447,2.3,2007
+Sao Tome and Principe,STP,2,1.2,2007
+Algeria,DZA,386,1.1,2007
+Egypt,EGY,63,0.1,2007
+Morocco,MAR,1215,4,2007
+Sudan,SDN,-1,-1,2007
+Botswana,BWA,-1,-1,2007
+Lesotho,LSO,1797,91.9,2007
+Swaziland,SWZ,-1,-1,2007
+Guinea,GIN,92,0.9,2007
+Nigeria,NGA,1545,1,2007
+Senegal,SEN,167,1.4,2007
+Sierra Leone,SLE,135,2.5,2007
+Bermuda,BMU,-1,-1,2007
+Canada,CAN,528,1.6,2007
+United States of America,USA,92610,30.5,2007
+Bahamas,BHS,135,39.5,2007
+Barbados,BRB,72,26.1,2007
+Dominican Republic,DOM,-1,-1,2007
+Grenada,GRD,30,29,2007
+Jamaica,JAM,714,26.4,2007
+Saint Kitts and Nevis,KNA,-1,-1,2007
+Saint Vincent and the Grenadines,VCT,60,55,2007
+Trinidad and Tobago,TTO,317,24.2,2007
+Belize,BLZ,-1,-1,2007
+Costa Rica,CRI,1337,30,2007
+El Salvador,SLV,574,9.4,2007
+Guatemala,GTM,318,2.4,2007
+Honduras,HND,-1,-1,2007
+Mexico,MEX,14199,12.5,2007
+Nicaragua,NIC,-1,-1,2007
+Panama,PAN,855,24.5,2007
+Argentina,ARG,3276,8.3,2007
+Bolivia,BOL,1633,16.9,2007
+Brazil,BRA,25709,13.5,2007
+Chile,CHL,2942,17.6,2007
+Colombia,COL,3380,7.6,2007
+Ecuador,ECU,-1,-1,2007
+Guyana,GUY,-1,-1,2007
+Paraguay,PRY,1279,20.9,2007
+Peru,PER,7208,25.4,2007
+Suriname,SUR,-1,-1,2007
+Uruguay,URY,206,6.2,2007
+Kazakhstan,KAZ,1514,9.8,2007
+Kyrgyzstan,KGZ,300,5.8,2007
+Tajikistan,TJK,47,0.7,2007
+Turkmenistan,TKM,-1,-1,2007
+Hong Kong Special Administrative Region of China,HKG,107,1.5,2007
+Japan,JPN,1766,1.4,2007
+Mongolia,MNG,355,13.7,2007
+Republic of Korea,KOR,-1,-1,2007
+Brunei Darussalam,BRN,-1,-1,2007
+Indonesia,IDN,-1,-1,2007
+Philippines,PHL,2409,2.7,2007
+Singapore,SGP,129,2.7,2007
+Thailand,THA,5152,7.8,2007
+Bangladesh,BGD,-1,-1,2007
+India,IND,20737,1.8,2007
+Maldives,MDV,5,1.6,2007
+Nepal,NPL,-1,-1,2007
+Sri Lanka,LKA,-1,-1,2007
+Armenia,ARM,5,0.2,2007
+Azerbaijan,AZE,34,0.4,2007
+Bahrain,BHR,21,2,2007
+Cyprus,CYP,19,1.8,2007
+Georgia,GEO,156,3.5,2007
+Israel,ISR,1270,18.3,2007
+Jordan,JOR,-1,-1,2007
+Kuwait,KWT,137,5.4,2007
+Lebanon,LBN,-1,-1,2007
+Oman,OMN,132,5.1,2007
+Qatar,QAT,-1,-1,2007
+State of Palestine,PSE,-1,-1,2007
+Syrian Arab Republic,SYR,125,0.6,2007
+Turkey,TUR,1148,1.7,2007
+United Arab Emirates,ARE,-1,-1,2007
+Yemen,YEM,125,0.6,2007
+Belarus,BLR,336,3.5,2007
+Bulgaria,BGR,225,3,2007
+Czech Republic,CZE,637,6.2,2007
+Hungary,HUN,215,2.1,2007
+Poland,POL,1827,4.8,2007
+Republic of Moldova,MDA,281,7.7,2007
+Romania,ROU,1048,4.8,2007
+Russian Federation,RUS,7038,4.9,2007
+Slovakia,SVK,182,3.4,2007
+Ukraine,UKR,878,1.9,2007
+Denmark,DNK,492,9,2007
+Estonia,EST,122,9.3,2007
+Finland,FIN,739,14,2007
+Iceland,ISL,87,28.5,2007
+Ireland,IRL,357,8.3,2007
+Latvia,LVA,93,4.3,2007
+Lithuania,LTU,200,6.3,2007
+Norway,NOR,945,20,2007
+Sweden,SWE,4749,51.8,2007
+United Kingdom,GBR,13970,-1,2007
+Albania,ALB,41,1.3,2007
+Andorra,AND,2,-1,2007
+Bosnia and Herzegovina,BIH,44,1.1,2007
+Croatia,HRV,162,3.7,2007
+Greece,GRC,185,1.7,2007
+Malta,MLT,10,2.4,2007
+Montenegro,MNE,7,1.1,2007
+Portugal,PRT,305,2.9,2007
+Serbia,SRB,105,1.1,2007
+Slovenia,SVN,97,4.8,2007
+Spain,ESP,2530,5.7,2007
+Austria,AUT,710,8.5,2007
+Belgium,BEL,3290,30.8,2007
+France,FRA,10132,16.3,2007
+Germany,DEU,7511,9,2007
+Liechtenstein,LIE,1,-1,2007
+Luxembourg,LUX,44,9.2,2007
+Monaco,MCO,-1,-1,2007
+Netherlands,NLD,2135,13,2007
+Switzerland,CHE,648,8.6,2007
+New Zealand,NZL,1143,27,2007
+Solomon Islands,SLB,61,12.4,2007
+Burundi,BDI,587,6.8,2008
+Kenya,KEN,735,1.9,2008
+Mauritius,MUS,69,5.6,2008
+Mozambique,MOZ,47,0.2,2008
+Rwanda,RWA,383,3.7,2008
+Uganda,UGA,1536,4.8,2008
+Zimbabwe,ZWE,3186,24.9,2008
+Cameroon,CMR,-1,-1,2008
+Sao Tome and Principe,STP,5,3,2008
+Algeria,DZA,345,1,2008
+Egypt,EGY,87,0.1,2008
+Morocco,MAR,1130,3.7,2008
+Sudan,SDN,1189,-1,2008
+Botswana,BWA,-1,-1,2008
+Lesotho,LSO,1878,95.2,2008
+Swaziland,SWZ,-1,-1,2008
+Guinea,GIN,-1,-1,2008
+Nigeria,NGA,-1,-1,2008
+Senegal,SEN,416,3.4,2008
+Sierra Leone,SLE,79,1.4,2008
+Bermuda,BMU,-1,-1,2008
+Canada,CAN,490,1.5,2008
+United States of America,USA,90750,29.6,2008
+Bahamas,BHS,118,33.9,2008
+Barbados,BRB,62,22.3,2008
+Dominican Republic,DOM,-1,-1,2008
+Grenada,GRD,31,29.8,2008
+Jamaica,JAM,853,31.4,2008
+Saint Kitts and Nevis,KNA,-1,-1,2008
+Saint Vincent and the Grenadines,VCT,36,33,2008
+Trinidad and Tobago,TTO,236,17.9,2008
+Belize,BLZ,-1,-1,2008
+Costa Rica,CRI,1357,29.9,2008
+El Salvador,SLV,566,9.2,2008
+Guatemala,GTM,385,2.8,2008
+Honduras,HND,-1,-1,2008
+Mexico,MEX,14078,12.2,2008
+Nicaragua,NIC,-1,-1,2008
+Panama,PAN,713,20.1,2008
+Argentina,ARG,3367,8.5,2008
+Bolivia,BOL,1821,18.5,2008
+Brazil,BRA,28158,14.7,2008
+Chile,CHL,3349,19.9,2008
+Colombia,COL,3384,7.5,2008
+Ecuador,ECU,-1,-1,2008
+Guyana,GUY,-1,-1,2008
+Paraguay,PRY,1316,21.1,2008
+Peru,PER,7560,26.4,2008
+Suriname,SUR,-1,-1,2008
+Uruguay,URY,207,6.2,2008
+Kazakhstan,KAZ,1298,8.3,2008
+Kyrgyzstan,KGZ,303,5.8,2008
+Tajikistan,TJK,55,0.8,2008
+Turkmenistan,TKM,-1,-1,2008
+Hong Kong Special Administrative Region of China,HKG,105,1.5,2008
+Japan,JPN,1582,1.2,2008
+Mongolia,MNG,354,13.4,2008
+Republic of Korea,KOR,-1,-1,2008
+Brunei Darussalam,BRN,-1,-1,2008
+Indonesia,IDN,2906,1.2,2008
+Philippines,PHL,2585,2.9,2008
+Singapore,SGP,167,3.4,2008
+Thailand,THA,4641,7,2008
+Bangladesh,BGD,-1,-1,2008
+India,IND,21467,1.8,2008
+Maldives,MDV,9,2.9,2008
+Nepal,NPL,-1,-1,2008
+Sri Lanka,LKA,-1,-1,2008
+Armenia,ARM,15,0.5,2008
+Azerbaijan,AZE,25,0.3,2008
+Bahrain,BHR,36,3.2,2008
+Cyprus,CYP,34,3.2,2008
+Georgia,GEO,100,2.3,2008
+Israel,ISR,1243,17.5,2008
+Jordan,JOR,-1,-1,2008
+Kuwait,KWT,120,4.4,2008
+Lebanon,LBN,-1,-1,2008
+Oman,OMN,183,7.1,2008
+Qatar,QAT,-1,-1,2008
+State of Palestine,PSE,12,0.3,2008
+Syrian Arab Republic,SYR,156,0.8,2008
+Turkey,TUR,1071,1.5,2008
+United Arab Emirates,ARE,-1,-1,2008
+Yemen,YEM,158,0.7,2008
+Belarus,BLR,240,2.5,2008
+Bulgaria,BGR,262,3.5,2008
+Czech Republic,CZE,529,5.1,2008
+Hungary,HUN,214,2.1,2008
+Poland,POL,1611,4.2,2008
+Republic of Moldova,MDA,306,8.4,2008
+Romania,ROU,1016,4.6,2008
+Russian Federation,RUS,6208,4.3,2008
+Slovakia,SVK,152,2.8,2008
+Ukraine,UKR,880,1.9,2008
+Denmark,DNK,396,7.2,2008
+Estonia,EST,160,12.2,2008
+Finland,FIN,915,17.2,2008
+Iceland,ISL,68,22,2008
+Ireland,IRL,348,8,2008
+Latvia,LVA,100,4.7,2008
+Lithuania,LTU,164,5.2,2008
+Norway,NOR,944,19.8,2008
+Sweden,SWE,5446,59,2008
+United Kingdom,GBR,14285,-1,2008
+Albania,ALB,39,1.2,2008
+Andorra,AND,2,-1,2008
+Bosnia and Herzegovina,BIH,35,0.9,2008
+Croatia,HRV,188,4.3,2008
+Greece,GRC,232,2.1,2008
+Malta,MLT,19,4.5,2008
+Montenegro,MNE,17,2.7,2008
+Portugal,PRT,314,3,2008
+Serbia,SRB,123,1.3,2008
+Slovenia,SVN,57,2.8,2008
+Spain,ESP,2437,5.4,2008
+Austria,AUT,693,8.3,2008
+Belgium,BEL,3198,29.7,2008
+France,FRA,10277,16.4,2008
+Germany,DEU,7292,8.7,2008
+Liechtenstein,LIE,3,-1,2008
+Luxembourg,LUX,57,11.7,2008
+Monaco,MCO,-1,-1,2008
+Netherlands,NLD,1945,11.8,2008
+Switzerland,CHE,612,8,2008
+New Zealand,NZL,1130,26.4,2008
+Solomon Islands,SLB,56,11.1,2008
+Burundi,BDI,683,7.7,2009
+Kenya,KEN,847,2.1,2009
+Mauritius,MUS,57,4.6,2009
+Mozambique,MOZ,44,0.2,2009
+Rwanda,RWA,293,2.8,2009
+Uganda,UGA,619,1.9,2009
+Zimbabwe,ZWE,-1,-1,2009
+Cameroon,CMR,-1,-1,2009
+Sao Tome and Principe,STP,7,4,2009
+Algeria,DZA,385,1.1,2009
+Egypt,EGY,74,0.1,2009
+Morocco,MAR,1507,4.8,2009
+Sudan,SDN,-1,-1,2009
+Botswana,BWA,1754,89.9,2009
+Lesotho,LSO,1777,89.3,2009
+Swaziland,SWZ,-1,-1,2009
+Guinea,GIN,-1,-1,2009
+Nigeria,NGA,-1,-1,2009
+Senegal,SEN,710,5.6,2009
+Sierra Leone,SLE,-1,-1,2009
+Bermuda,BMU,-1,-1,2009
+Canada,CAN,471,1.4,2009
+United States of America,USA,89241,28.8,2009
+Bahamas,BHS,109,30.7,2009
+Barbados,BRB,68,24.4,2009
+Dominican Republic,DOM,-1,-1,2009
+Grenada,GRD,57,54.7,2009
+Jamaica,JAM,706,25.9,2009
+Saint Kitts and Nevis,KNA,16,-1,2009
+Saint Vincent and the Grenadines,VCT,54,49.4,2009
+Trinidad and Tobago,TTO,247,18.7,2009
+Belize,BLZ,30,10,2009
+Costa Rica,CRI,1602,34.8,2009
+El Salvador,SLV,756,12.2,2009
+Guatemala,GTM,401,2.9,2009
+Honduras,HND,-1,-1,2009
+Mexico,MEX,14850,12.8,2009
+Nicaragua,NIC,-1,-1,2009
+Panama,PAN,809,22.4,2009
+Argentina,ARG,-1,-1,2009
+Bolivia,BOL,2221,22.2,2009
+Brazil,BRA,33912,17.5,2009
+Chile,CHL,3403,20,2009
+Colombia,COL,3542,7.7,2009
+Ecuador,ECU,-1,-1,2009
+Guyana,GUY,62,7.9,2009
+Paraguay,PRY,1401,22.1,2009
+Peru,PER,6751,23.3,2009
+Suriname,SUR,-1,-1,2009
+Uruguay,URY,212,6.3,2009
+Kazakhstan,KAZ,1376,8.7,2009
+Kyrgyzstan,KGZ,303,5.8,2009
+Tajikistan,TJK,36,0.5,2009
+Turkmenistan,TKM,-1,-1,2009
+Hong Kong Special Administrative Region of China,HKG,136,1.9,2009
+Japan,JPN,1402,1.1,2009
+Mongolia,MNG,332,12.4,2009
+Republic of Korea,KOR,-1,-1,2009
+Brunei Darussalam,BRN,-1,-1,2009
+Indonesia,IDN,2548,1.1,2009
+Philippines,PHL,5639,6.1,2009
+Singapore,SGP,202,4.1,2009
+Thailand,THA,4676,7.1,2009
+Bangladesh,BGD,-1,-1,2009
+India,IND,21397,1.8,2009
+Maldives,MDV,-1,-1,2009
+Nepal,NPL,-1,-1,2009
+Sri Lanka,LKA,-1,-1,2009
+Armenia,ARM,15,0.5,2009
+Azerbaijan,AZE,35,0.4,2009
+Bahrain,BHR,-1,-1,2009
+Cyprus,CYP,27,2.5,2009
+Georgia,GEO,84,1.9,2009
+Israel,ISR,-1,-1,2009
+Jordan,JOR,-1,-1,2009
+Kuwait,KWT,119,4.2,2009
+Lebanon,LBN,-1,-1,2009
+Oman,OMN,-1,-1,2009
+Qatar,QAT,-1,-1,2009
+State of Palestine,PSE,13,0.3,2009
+Syrian Arab Republic,SYR,-1,-1,2009
+Turkey,TUR,-1,-1,2009
+United Arab Emirates,ARE,-1,-1,2009
+Yemen,YEM,176,0.8,2009
+Belarus,BLR,218,2.3,2009
+Bulgaria,BGR,246,3.3,2009
+Czech Republic,CZE,480,4.6,2009
+Hungary,HUN,228,2.3,2009
+Poland,POL,1530,4,2009
+Republic of Moldova,MDA,264,7.3,2009
+Romania,ROU,1007,4.6,2009
+Russian Federation,RUS,5398,3.8,2009
+Slovakia,SVK,142,2.6,2009
+Ukraine,UKR,758,1.6,2009
+Denmark,DNK,352,6.4,2009
+Estonia,EST,124,9.5,2009
+Finland,FIN,660,12.4,2009
+Iceland,ISL,78,24.9,2009
+Ireland,IRL,376,8.5,2009
+Latvia,LVA,69,3.3,2009
+Lithuania,LTU,149,4.8,2009
+Norway,NOR,998,20.6,2009
+Sweden,SWE,5937,63.8,2009
+United Kingdom,GBR,16380,-1,2009
+Albania,ALB,34,1.1,2009
+Andorra,AND,0,-1,2009
+Bosnia and Herzegovina,BIH,29,0.8,2009
+Croatia,HRV,129,3,2009
+Greece,GRC,213,1.9,2009
+Malta,MLT,12,2.8,2009
+Montenegro,MNE,9,1.5,2009
+Portugal,PRT,377,3.6,2009
+Serbia,SRB,111,1.1,2009
+Slovenia,SVN,79,3.9,2009
+Spain,ESP,2051,4.5,2009
+Austria,AUT,779,9.3,2009
+Belgium,BEL,3082,28.4,2009
+France,FRA,9842,15.6,2009
+Germany,DEU,7314,8.8,2009
+Liechtenstein,LIE,0,-1,2009
+Luxembourg,LUX,56,11.2,2009
+Monaco,MCO,-1,-1,2009
+Netherlands,NLD,1920,11.6,2009
+Switzerland,CHE,666,8.6,2009
+New Zealand,NZL,1128,26.1,2009
+Solomon Islands,SLB,-1,-1,2009
+Burundi,BDI,692,7.5,2010
+Kenya,KEN,922,2.3,2010
+Mauritius,MUS,51,4.1,2010
+Mozambique,MOZ,-1,-1,2010
+Rwanda,RWA,312,2.9,2010
+Uganda,UGA,709,2.1,2010
+Zimbabwe,ZWE,-1,-1,2010
+Cameroon,CMR,-1,-1,2010
+Sao Tome and Principe,STP,2,1.1,2010
+Algeria,DZA,304,0.8,2010
+Egypt,EGY,91,0.1,2010
+Morocco,MAR,-1,-1,2010
+Sudan,SDN,-1,-1,2010
+Botswana,BWA,1865,94.7,2010
+Lesotho,LSO,-1,-1,2010
+Swaziland,SWZ,-1,-1,2010
+Guinea,GIN,-1,-1,2010
+Nigeria,NGA,-1,-1,2010
+Senegal,SEN,693,5.4,2010
+Sierra Leone,SLE,-1,-1,2010
+Bermuda,BMU,-1,-1,2010
+Canada,CAN,581,1.7,2010
+United States of America,USA,85593,27.4,2010
+Bahamas,BHS,78,21.6,2010
+Barbados,BRB,63,22.5,2010
+Dominican Republic,DOM,-1,-1,2010
+Grenada,GRD,32,30.6,2010
+Jamaica,JAM,717,26.2,2010
+Saint Kitts and Nevis,KNA,15,-1,2010
+Saint Vincent and the Grenadines,VCT,28,25.6,2010
+Trinidad and Tobago,TTO,217,16.3,2010
+Belize,BLZ,21,6.8,2010
+Costa Rica,CRI,1613,34.5,2010
+El Salvador,SLV,681,11,2010
+Guatemala,GTM,-1,-1,2010
+Honduras,HND,-1,-1,2010
+Mexico,MEX,14993,12.7,2010
+Nicaragua,NIC,1829,31.4,2010
+Panama,PAN,996,27.1,2010
+Argentina,ARG,-1,-1,2010
+Bolivia,BOL,2891,28.5,2010
+Brazil,BRA,41180,21.1,2010
+Chile,CHL,3139,18.3,2010
+Colombia,COL,3157,6.8,2010
+Ecuador,ECU,-1,-1,2010
+Guyana,GUY,117,14.9,2010
+Paraguay,PRY,1332,20.6,2010
+Peru,PER,-1,-1,2010
+Suriname,SUR,-1,-1,2010
+Uruguay,URY,227,6.7,2010
+Kazakhstan,KAZ,1387,8.7,2010
+Kyrgyzstan,KGZ,314,5.9,2010
+Tajikistan,TJK,57,0.7,2010
+Turkmenistan,TKM,-1,-1,2010
+Hong Kong Special Administrative Region of China,HKG,112,1.6,2010
+Japan,JPN,1289,1,2010
+Mongolia,MNG,342,12.6,2010
+Republic of Korea,KOR,-1,-1,2010
+Brunei Darussalam,BRN,-1,-1,2010
+Indonesia,IDN,2183,0.9,2010
+Philippines,PHL,4718,5,2010
+Singapore,SGP,164,3.2,2010
+Thailand,THA,4636,7,2010
+Bangladesh,BGD,-1,-1,2010
+India,IND,22172,1.8,2010
+Maldives,MDV,-1,-1,2010
+Nepal,NPL,-1,-1,2010
+Sri Lanka,LKA,-1,-1,2010
+Armenia,ARM,11,0.4,2010
+Azerbaijan,AZE,16,0.2,2010
+Bahrain,BHR,-1,-1,2010
+Cyprus,CYP,36,3.3,2010
+Georgia,GEO,82,1.9,2010
+Israel,ISR,1021,13.8,2010
+Jordan,JOR,-1,-1,2010
+Kuwait,KWT,-1,-1,2010
+Lebanon,LBN,-1,-1,2010
+Oman,OMN,-1,-1,2010
+Qatar,QAT,-1,-1,2010
+State of Palestine,PSE,15,0.4,2010
+Syrian Arab Republic,SYR,-1,-1,2010
+Turkey,TUR,-1,-1,2010
+United Arab Emirates,ARE,-1,-1,2010
+Yemen,YEM,-1,-1,2010
+Belarus,BLR,-1,-1,2010
+Bulgaria,BGR,211,2.9,2010
+Czech Republic,CZE,586,5.6,2010
+Hungary,HUN,246,2.5,2010
+Poland,POL,1567,4.1,2010
+Republic of Moldova,MDA,368,10.3,2010
+Romania,ROU,897,4.1,2010
+Russian Federation,RUS,4907,3.4,2010
+Slovakia,SVK,117,2.2,2010
+Ukraine,UKR,635,1.4,2010
+Denmark,DNK,342,6.2,2010
+Estonia,EST,81,6.2,2010
+Finland,FIN,818,15.2,2010
+Iceland,ISL,-1,-1,2010
+Ireland,IRL,479,10.7,2010
+Latvia,LVA,78,3.7,2010
+Lithuania,LTU,208,6.8,2010
+Norway,NOR,938,19.2,2010
+Sweden,SWE,5960,63.5,2010
+United Kingdom,GBR,17387,-1,2010
+Albania,ALB,24,0.8,2010
+Andorra,AND,1,-1,2010
+Bosnia and Herzegovina,BIH,46,1.2,2010
+Croatia,HRV,141,3.3,2010
+Greece,GRC,215,1.9,2010
+Malta,MLT,11,2.6,2010
+Montenegro,MNE,5,0.8,2010
+Portugal,PRT,424,4,2010
+Serbia,SRB,72,0.7,2010
+Slovenia,SVN,63,3.1,2010
+Spain,ESP,1578,3.4,2010
+Austria,AUT,875,10.4,2010
+Belgium,BEL,3202,29.3,2010
+France,FRA,10108,16,2010
+Germany,DEU,7724,9.3,2010
+Liechtenstein,LIE,0,-1,2010
+Luxembourg,LUX,66,13,2010
+Monaco,MCO,-1,-1,2010
+Netherlands,NLD,1655,10,2010
+Switzerland,CHE,543,6.9,2010
+New Zealand,NZL,1129,25.8,2010
+Solomon Islands,SLB,-1,-1,2010
+Burundi,BDI,646,6.8,2011
+Kenya,KEN,934,2.2,2011
+Mauritius,MUS,58,4.7,2011
+Mozambique,MOZ,-1,-1,2011
+Rwanda,RWA,257,2.3,2011
+Uganda,UGA,-1,-1,2011
+Zimbabwe,ZWE,-1,-1,2011
+Cameroon,CMR,-1,-1,2011
+Sao Tome and Principe,STP,3,1.6,2011
+Algeria,DZA,292,0.8,2011
+Egypt,EGY,102,0.1,2011
+Morocco,MAR,-1,-1,2011
+Sudan,SDN,-1,-1,2011
+Botswana,BWA,1800,90.6,2011
+Lesotho,LSO,-1,-1,2011
+Swaziland,SWZ,-1,-1,2011
+Guinea,GIN,-1,-1,2011
+Nigeria,NGA,-1,-1,2011
+Senegal,SEN,-1,-1,2011
+Sierra Leone,SLE,-1,-1,2011
+Bermuda,BMU,-1,-1,2011
+Canada,CAN,549,1.6,2011
+United States of America,USA,84175,26.7,2011
+Bahamas,BHS,107,29.2,2011
+Barbados,BRB,70,24.8,2011
+Dominican Republic,DOM,-1,-1,2011
+Grenada,GRD,58,55.2,2011
+Jamaica,JAM,815,29.6,2011
+Saint Kitts and Nevis,KNA,-1,-1,2011
+Saint Vincent and the Grenadines,VCT,56,51.2,2011
+Trinidad and Tobago,TTO,200,15,2011
+Belize,BLZ,27,8.5,2011
+Costa Rica,CRI,1641,34.6,2011
+El Salvador,SLV,326,5.2,2011
+Guatemala,GTM,-1,-1,2011
+Honduras,HND,1794,23.1,2011
+Mexico,MEX,14938,12.5,2011
+Nicaragua,NIC,-1,-1,2011
+Panama,PAN,1030,27.5,2011
+Argentina,ARG,-1,-1,2011
+Bolivia,BOL,2572,24.9,2011
+Brazil,BRA,41294,21,2011
+Chile,CHL,3590,20.7,2011
+Colombia,COL,3596,7.6,2011
+Ecuador,ECU,-1,-1,2011
+Guyana,GUY,240,30.3,2011
+Paraguay,PRY,1263,19.2,2011
+Peru,PER,-1,-1,2011
+Suriname,SUR,-1,-1,2011
+Uruguay,URY,227,6.7,2011
+Kazakhstan,KAZ,1761,10.9,2011
+Kyrgyzstan,KGZ,331,6.1,2011
+Tajikistan,TJK,43,0.6,2011
+Turkmenistan,TKM,-1,-1,2011
+Hong Kong Special Administrative Region of China,HKG,91,1.3,2011
+Japan,JPN,1185,0.9,2011
+Mongolia,MNG,367,13.3,2011
+Republic of Korea,KOR,-1,-1,2011
+Brunei Darussalam,BRN,-1,-1,2011
+Indonesia,IDN,1977,0.8,2011
+Philippines,PHL,4737,5,2011
+Singapore,SGP,150,2.9,2011
+Thailand,THA,-1,-1,2011
+Bangladesh,BGD,-1,-1,2011
+India,IND,24003,-1,2011
+Maldives,MDV,-1,-1,2011
+Nepal,NPL,-1,-1,2011
+Sri Lanka,LKA,-1,-1,2011
+Armenia,ARM,10,0.3,2011
+Azerbaijan,AZE,-1,-1,2011
+Bahrain,BHR,-1,-1,2011
+Cyprus,CYP,38,3.4,2011
+Georgia,GEO,-1,-1,2011
+Israel,ISR,1045,13.9,2011
+Jordan,JOR,-1,-1,2011
+Kuwait,KWT,-1,-1,2011
+Lebanon,LBN,-1,-1,2011
+Oman,OMN,-1,-1,2011
+Qatar,QAT,-1,-1,2011
+State of Palestine,PSE,18,0.4,2011
+Syrian Arab Republic,SYR,-1,-1,2011
+Turkey,TUR,-1,-1,2011
+United Arab Emirates,ARE,-1,-1,2011
+Yemen,YEM,-1,-1,2011
+Belarus,BLR,-1,-1,2011
+Bulgaria,BGR,157,2.1,2011
+Czech Republic,CZE,675,6.4,2011
+Hungary,HUN,196,2,2011
+Poland,POL,1498,3.9,2011
+Republic of Moldova,MDA,291,8.2,2011
+Romania,ROU,780,3.6,2011
+Russian Federation,RUS,4801,3.3,2011
+Slovakia,SVK,150,2.8,2011
+Ukraine,UKR,-1,-1,2011
+Denmark,DNK,342,6.1,2011
+Estonia,EST,91,7,2011
+Finland,FIN,1039,19.3,2011
+Iceland,ISL,-1,-1,2011
+Ireland,IRL,463,10.2,2011
+Latvia,LVA,50,2.4,2011
+Lithuania,LTU,191,6.3,2011
+Norway,NOR,1075,21.7,2011
+Sweden,SWE,6532,69.1,2011
+United Kingdom,GBR,17769,-1,2011
+Albania,ALB,22,0.7,2011
+Andorra,AND,-1,-1,2011
+Bosnia and Herzegovina,BIH,35,0.9,2011
+Croatia,HRV,122,2.8,2011
+Greece,GRC,172,1.5,2011
+Malta,MLT,18,4.2,2011
+Montenegro,MNE,3,0.5,2011
+Portugal,PRT,374,3.5,2011
+Serbia,SRB,79,0.8,2011
+Slovenia,SVN,55,2.7,2011
+Spain,ESP,1512,3.3,2011
+Austria,AUT,977,11.6,2011
+Belgium,BEL,3227,29.3,2011
+France,FRA,10406,16.4,2011
+Germany,DEU,7539,9.1,2011
+Liechtenstein,LIE,2,-1,2011
+Luxembourg,LUX,70,13.6,2011
+Monaco,MCO,-1,-1,2011
+Netherlands,NLD,1590,9.5,2011
+Switzerland,CHE,552,7,2011
+New Zealand,NZL,1325,30,2011
+Solomon Islands,SLB,-1,-1,2011
+Burundi,BDI,-1,-1,2012
+Kenya,KEN,786,1.8,2012
+Mauritius,MUS,-1,-1,2012
+Mozambique,MOZ,-1,-1,2012
+Rwanda,RWA,265,2.3,2012
+Uganda,UGA,-1,-1,2012
+Zimbabwe,ZWE,-1,-1,2012
+Cameroon,CMR,-1,-1,2012
+Sao Tome and Principe,STP,-1,-1,2012
+Algeria,DZA,773,2,2012
+Egypt,EGY,-1,-1,2012
+Morocco,MAR,1280,3.9,2012
+Sudan,SDN,-1,-1,2012
+Botswana,BWA,-1,-1,2012
+Lesotho,LSO,-1,-1,2012
+Swaziland,SWZ,-1,-1,2012
+Guinea,GIN,-1,-1,2012
+Nigeria,NGA,-1,-1,2012
+Senegal,SEN,-1,-1,2012
+Sierra Leone,SLE,-1,-1,2012
+Bermuda,BMU,-1,-1,2012
+Canada,CAN,499,1.4,2012
+United States of America,USA,84376,26.6,2012
+Bahamas,BHS,-1,-1,2012
+Barbados,BRB,53,18.7,2012
+Dominican Republic,DOM,1591,15.5,2012
+Grenada,GRD,27,25.6,2012
+Jamaica,JAM,945,34.1,2012
+Saint Kitts and Nevis,KNA,-1,-1,2012
+Saint Vincent and the Grenadines,VCT,-1,-1,2012
+Trinidad and Tobago,TTO,286,21.4,2012
+Belize,BLZ,-1,-1,2012
+Costa Rica,CRI,1430,29.8,2012
+El Salvador,SLV,394,6.3,2012
+Guatemala,GTM,-1,-1,2012
+Honduras,HND,1042,13.1,2012
+Mexico,MEX,15867,13.1,2012
+Nicaragua,NIC,-1,-1,2012
+Panama,PAN,1187,31.2,2012
+Argentina,ARG,-1,-1,2012
+Bolivia,BOL,3460,33,2012
+Brazil,BRA,49524,24.9,2012
+Chile,CHL,3275,18.8,2012
+Colombia,COL,5082,10.7,2012
+Ecuador,ECU,-1,-1,2012
+Guyana,GUY,269,33.8,2012
+Paraguay,PRY,956,14.3,2012
+Peru,PER,-1,-1,2012
+Suriname,SUR,-1,-1,2012
+Uruguay,URY,257,7.6,2012
+Kazakhstan,KAZ,2302,14.1,2012
+Kyrgyzstan,KGZ,-1,-1,2012
+Tajikistan,TJK,-1,-1,2012
+Turkmenistan,TKM,-1,-1,2012
+Hong Kong Special Administrative Region of China,HKG,121,1.7,2012
+Japan,JPN,1240,1,2012
+Mongolia,MNG,-1,-1,2012
+Republic of Korea,KOR,-1,-1,2012
+Brunei Darussalam,BRN,-1,-1,2012
+Indonesia,IDN,1779,0.7,2012
+Philippines,PHL,4385,4.5,2012
+Singapore,SGP,133,2.5,2012
+Thailand,THA,-1,-1,2012
+Bangladesh,BGD,-1,-1,2012
+India,IND,24519,-1,2012
+Maldives,MDV,-1,-1,2012
+Nepal,NPL,-1,-1,2012
+Sri Lanka,LKA,-1,-1,2012
+Armenia,ARM,14,0.5,2012
+Azerbaijan,AZE,19,0.2,2012
+Bahrain,BHR,-1,-1,2012
+Cyprus,CYP,25,2.2,2012
+Georgia,GEO,-1,-1,2012
+Israel,ISR,-1,-1,2012
+Jordan,JOR,-1,-1,2012
+Kuwait,KWT,-1,-1,2012
+Lebanon,LBN,-1,-1,2012
+Oman,OMN,-1,-1,2012
+Qatar,QAT,-1,-1,2012
+State of Palestine,PSE,8,0.2,2012
+Syrian Arab Republic,SYR,-1,-1,2012
+Turkey,TUR,-1,-1,2012
+United Arab Emirates,ARE,83,0.9,2012
+Yemen,YEM,-1,-1,2012
+Belarus,BLR,-1,-1,2012
+Bulgaria,BGR,187,2.6,2012
+Czech Republic,CZE,669,6.3,2012
+Hungary,HUN,192,1.9,2012
+Poland,POL,1432,3.7,2012
+Republic of Moldova,MDA,360,10.2,2012
+Romania,ROU,895,4.1,2012
+Russian Federation,RUS,-1,-1,2012
+Slovakia,SVK,88,1.6,2012
+Ukraine,UKR,-1,-1,2012
+Denmark,DNK,317,5.7,2012
+Estonia,EST,143,11.1,2012
+Finland,FIN,1009,18.7,2012
+Iceland,ISL,-1,-1,2012
+Ireland,IRL,492,10.8,2012
+Latvia,LVA,64,3.1,2012
+Lithuania,LTU,178,5.9,2012
+Norway,NOR,1116,22.3,2012
+Sweden,SWE,6324,66.5,2012
+United Kingdom,GBR,18202,-1,2012
+Albania,ALB,24,0.8,2012
+Andorra,AND,5,-1,2012
+Bosnia and Herzegovina,BIH,41,1.1,2012
+Croatia,HRV,126,2.9,2012
+Greece,GRC,167,1.5,2012
+Malta,MLT,13,3,2012
+Montenegro,MNE,3,0.5,2012
+Portugal,PRT,375,3.5,2012
+Serbia,SRB,85,0.9,2012
+Slovenia,SVN,58,2.8,2012
+Spain,ESP,1280,2.7,2012
+Austria,AUT,883,10.4,2012
+Belgium,BEL,3053,27.6,2012
+France,FRA,10885,17,2012
+Germany,DEU,8031,9.7,2012
+Liechtenstein,LIE,4,-1,2012
+Luxembourg,LUX,-1,-1,2012
+Monaco,MCO,-1,-1,2012
+Netherlands,NLD,1485,8.9,2012
+Switzerland,CHE,569,7.1,2012
+New Zealand,NZL,1322,29.6,2012
+Solomon Islands,SLB,-1,-1,2012
