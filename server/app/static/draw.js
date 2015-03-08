@@ -122,16 +122,25 @@ function updateMap(year) {
             }
             //console.log(dataset);
         }
+        var g = d3.select("#map").select("svg").append("g")
+        .attr("class", "key")
+        .attr("transform", "translate( 20 , 200)");
+        var o = d3.scale.ordinal().domain(d3.range(50)).rangePoints([0,Math.log(max)])
+        var legendData = o.range();;
+        g.selectAll("rect")
+            .data(legendData)
+          .enter().append("rect")
+            .attr("height", function(d,i) {return 150 - 3 * i; })
+            .attr("x", 100)
+            .attr("width", 25)
+            .style("fill", function(d) {return colorScaleGYR(d); });
+        g.append("text").text("high").attr("x", 75)
+         g.append("text").text("low").attr("x", 75).attr("y", 160);
         map.updateChoropleth(dataset);
     });
     
 }
 
-function colorScale(cpi) {
-    var colorScaleGYR = d3.scale.linear().domain([0,5,10]).range(["#fc8d59","#ffffbf","#91cf60"]);
-    //console.log(colorScaleGYR(cpi));
-    return colorScaleGYR(cpi);
-}
 
 function updateBarChart(countryID) {
     d3.csv("static/data/rapeDataTest.csv", function(csv){
