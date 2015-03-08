@@ -76,10 +76,10 @@ var map = new Datamap({
         highlightFillColor: '#4F75B4', // dark blue
         popupTemplate: function(geo, data) {
             if (mapData[geo.id])
-                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : '+mapData[geo.id]+ 
+                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>counts : '+mapData[geo.id]+ 
                         '<br/>year : ' + curYear +'</div><script>drawBarChart('+geo.id+');</script>';
             else
-                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>cpi : N/A<br/>year : ' + curYear + '</div>';
+                return '<div class="hoverinfo"><strong>'+geo.id + ' : ' + geo.properties.name +'</strong><br/>counts : N/A<br/>year : ' + curYear + '</div>';
         }
     }
 });
