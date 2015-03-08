@@ -5,7 +5,12 @@
   
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link rel="stylesheet" type="text/css" href="bootstrap2.css">
-
+  
+  <!-- Load JavaScript Libraries -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+  <!-- load world map -->
+  <script type="text/javascript" src="js/datamaps.world.min.js"></script>
 </head>
 <body>
 <!--	<a href="map.html">Here's the viz</a> --> 
@@ -13,6 +18,36 @@
 	<div id="slide2"></div>
 	<div id="slide3"></div>
 	<div id="slide4"></div>
+	
+	<div id="nextStage">
+		<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		  </button>
+		  <a class="navbar-brand" href="#">Safe House</a>
+		</div>
+
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+			<li class="active"><a href="#">Visualization <span class="sr-only">(current)</span></a></li>
+			<li><a href="report.html">Get Help</a></li>
+			<li><a href="signup.html">Sign up to Help</a>
+		  </ul>
+		</div>
+	  </div>
+	</nav>
+		<div id="barchart"></div>
+		<div id="map"></div>
+	</div>
 </body>
 </html>
+
+<!-- load drawing -->
+<script type="text/javascript" src="js/draw.js"></script>
+
 
