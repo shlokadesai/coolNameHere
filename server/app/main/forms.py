@@ -60,5 +60,5 @@ class OrganizationForm(Form):
         ("safehouse", "Provide Safehouse for victims")
         ])
     auth = StringField("How long have you been in operation for?")
-
+    submit = SubmitField('Sign Up')
 
