@@ -16,3 +16,9 @@ body {
 	height: 425px;
 	left: 0px;
 }
+
+html {
+	background: url(images/Slide1.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	background-size:cover;
+}
