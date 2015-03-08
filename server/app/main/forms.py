@@ -47,7 +47,7 @@ class WitnessForm(Form):
     phone = StringField('Phone Number')
     submit = SubmitField('Report')
 
-class OrgnizationForm(Form):
+class OrganizationForm(Form):
     name = StringField("Name")
     location = StringField("Address")
     city = StringField('City')
