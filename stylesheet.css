@@ -71,6 +71,7 @@ svg {
 	fill: none;
   	stroke: #000;
   	shape-rendering: crispEdges;
+  	font-size: 12px;
 }
 
 #nextStage{
@@ -161,5 +162,9 @@ svg {
 .center {
 	width: 100%;
 	margin: 0 auto;
+}
+
+.page-header {
+	font-size: 125%;
 }
 
