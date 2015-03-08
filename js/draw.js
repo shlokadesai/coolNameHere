@@ -32,14 +32,16 @@ function updateMap(year) {
             return +row.Count;
         });
         console.log(max);
-        var colorScaleGYR = d3.scale.linear().domain([-1,0,max/2,max]).range(['rgba(200,200,200,0.5)',"#ffeda0","#feb24c", "#f03b20"]);
+        var colorScaleGYR = d3.scale.linear().domain([0,Math.log(max)/2,Math.log(max)]).range(["#ffeda0","#feb24c", "#f03b20"]);
         for (i = 0; i < data.length; i++) {
             if(data[i].Year == year)
             {
-                dataset[data[i].ID] = colorScaleGYR(data[i].Count);
-                mapData[data[i].ID] = data[i].Count;
+                if (data[i].Count >= 0) {
+                    dataset[data[i].ID] = colorScaleGYR(Math.log(data[i].Count));
+                    mapData[data[i].ID] = data[i].Count;
+                }
             }
-            console.log(dataset);
+            //console.log(dataset);
         }
         map.updateChoropleth(dataset);
     });
@@ -99,6 +101,6 @@ function drawBarChart(countryID) {
 
 
 //drawBarChart("USA");
-updateMap(2011);
+updateMap(2010);
 
 
