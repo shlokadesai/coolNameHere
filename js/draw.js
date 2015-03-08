@@ -4,8 +4,6 @@ var curYear = 2011;
 var barchart = d3.select("#barchart").append("svg");
 barchart.attr("height", "200px").attr("width", "500px").attr("id", "barchart_svg");
 
-
-
 /* generate map */
 var map = new Datamap({
     scope: 'world',
@@ -13,6 +11,11 @@ var map = new Datamap({
     fills: {
         // default color is the country without data
         defaultFill: 'rgba(200,200,200,0.5)'
+    },
+    done: function(datamap) {
+        datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+            drawBarChart(geography.id);
+        });
     },
     geographyConfig: {
         highlightFillColor: '#4F75B4', // dark blue
@@ -32,7 +35,7 @@ function updateMap(year) {
         var max = d3.max(data, function(row){
             return +row.Count;
         });
-        console.log(max);
+        //console.log(max);
         var colorScaleGYR = d3.scale.linear().domain([0,Math.log(max)/2,Math.log(max)]).range(["#ffeda0","#feb24c", "#f03b20"]);
         for (i = 0; i < data.length; i++) {
             if(data[i].Year == year)
@@ -60,7 +63,7 @@ function drawBarChart(countryID) {
     width = 500 - margin.left - margin.right,
     height = 200 - margin.top - margin.bottom;
     d3.csv("data/rapeDataTest.csv", function(csv){
-        console.log("hello!");
+        //console.log("hello!");
         var yearExtent = d3.extent(csv, function(row){ return +row.Year; })
         var maxCount = d3.max(csv, function(row){return +row.Count;}); 
         var xScale = d3.scale.ordinal().domain(csv.map(function(d){return d.Year;})).rangeBands([54, width]);
@@ -70,9 +73,8 @@ function drawBarChart(countryID) {
         
         for(i = 0; i < csv.length; i++) {
             var entry = csv[i];
-            console.log(entry);
-            if (entry.ID == countryID) {
-
+            //console.log(entry);
+            if (entry.ID == countryID && entry.Count >= 0) {
                 d3.select("#barchart_svg")
                     .append("rect")
                     .attr("x", function(){
