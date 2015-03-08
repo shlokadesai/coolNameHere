@@ -52,7 +52,12 @@ body {
 }
 
 svg {
-	margin: 20px;
+	margin-left: 20px;
+	background-color: white;
+}
+
+#barchart {
+	margin-left: 250px;
 }
 
 @-webkit-keyframes bgAni {
