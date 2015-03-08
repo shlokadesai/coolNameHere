@@ -1,7 +1,7 @@
 from flask import render_template, session, redirect, url_for, current_app, abort
 from ..email import send_email
 from . import main
-from .forms import NameForm, VictimForm
+from .forms import NameForm, VictimForm, OrganizationForm
 from .. import flash
 from flask.ext.babel import gettext as _
 from app.models.user import User
@@ -19,6 +19,10 @@ def after_request(response):
 @main.route('/', methods=['GET', 'POST'])
 def index():
     return render_template('index.html', name=session.get('name'), victimForm=VictimForm())
+
+@main.route('/signup', methods=['GET', 'POST'])
+def signup():
+    return render_template('signup.html', name=session.get('name'), OrganizationForm=OrganizationForm())
 
 @main.route('/user/<username>')
 def user(username):
