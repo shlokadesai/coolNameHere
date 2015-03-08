@@ -53,6 +53,14 @@ d3.csv("data/rapeDataSum.csv", function(data){
         .attr("class", "axis")
         .attr("id", "y-axis")
         .call(yAxis); // call the axis generator
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 20)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Count");
+        
+
 });
 
 function click() {

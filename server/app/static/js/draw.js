@@ -60,7 +60,6 @@ function drawBarChart(countryID) {
     width = 500 - margin.left - margin.right,
     height = 200 - margin.top - margin.bottom;
     d3.csv("data/rapeDataTest.csv", function(csv){
-        console.log("hello!");
         var yearExtent = d3.extent(csv, function(row){ return +row.Year; })
         var maxCount = d3.max(csv, function(row){return +row.Count;}); 
         var xScale = d3.scale.ordinal().domain(csv.map(function(d){return d.Year;})).rangeBands([54, width]);

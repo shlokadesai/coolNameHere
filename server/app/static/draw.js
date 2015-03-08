@@ -1,5 +1,5 @@
 var mapData = {};
-var curYear = 2011;
+var curYear = 2012;
 var margin = {top: 20, right: 20, bottom: 0, left: 40},
     width = 1000 - margin.left - margin.right,
     height = 150 - margin.top - margin.bottom;
@@ -13,7 +13,7 @@ d3.csv("static/data/rapeDataSum.csv", function(data){
     });
     console.log(max);
     var xScale = d3.scale.ordinal().domain(data.map(function(d){return d.Year;})).rangeBands([54, width]);
-    var yScaleSum = d3.scale.linear().domain([0,max]).range([height,30]);
+    var yScaleSum = d3.scale.linear().domain([0,max]).range([height,0]);
     var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
     var yAxis = d3.svg.axis().scale(yScaleSum).orient("left").ticks(4);
     for(i = 0; i < data.length; i++) {
@@ -35,8 +35,11 @@ d3.csv("static/data/rapeDataSum.csv", function(data){
             })
             .attr("fill", '#4F75B4')
             .attr("id", "b" + entry.Year)
+            .attr("class", "bar")
             .on("click", function(){
                 updateMap(this.id.substring(1));
+                curYear = +this.id.substring(1);
+                d3.select("#yIndicator").transition().attr("x", xScale(curYear)+0.2*xScale.rangeBand());
             })
     }
     var xAxisSel = 
@@ -52,8 +55,19 @@ d3.csv("static/data/rapeDataSum.csv", function(data){
         .attr("transform", "translate(60,0)")
         .attr("class", "axis")
         .attr("id", "y-axis")
-        .call(yAxis); // call the axis generator
+        .call(yAxis) // call the axis generator
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Count");
+    d3.select("svg").append("rect").attr("id", "yIndicator").attr("x", xScale(curYear)+0.2*xScale.rangeBand())
+    .attr("y", height).attr("width",xScale.rangeBand()*0.6).attr("height", 5)
 });
+
+/* draw year indicator */
+updateMap(2012);
+
 
 function click() {
     console.log("click")
@@ -69,6 +83,7 @@ var map = new Datamap({
     },
     done: function(datamap) {
         datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+            d3.select("#cIndicator").text(geography.properties.name);
             updateBarChart(geography.id);
         });
     },
@@ -120,9 +135,17 @@ function colorScale(cpi) {
 
 function updateBarChart(countryID) {
     d3.csv("static/data/rapeDataTest.csv", function(csv){
-        console.log(countryID);
         var yearExtent = d3.extent(csv, function(row){ return +row.Year; })
-        var maxCount = d3.max(csv, function(row){return +row.Count;}); 
+        var maxCount = d3.max(csv, function(row){
+            if(row.ID == countryID)
+                return +row.Count;
+            else
+                return -1; 
+            });
+        if (maxCount < 0) {
+            maxCount = 0;
+            d3.selectAll(".bar").attr("y", function(){return 0;}).attr("height", function(){return height;}).attr('fill', 'rgba(200,200,200,0.5)');
+        }
         var xScale = d3.scale.ordinal().domain(csv.map(function(d){return d.Year;})).rangeBands([54, width]);
         var yScale = d3.scale.linear().domain([0,maxCount]).range([height,0]);
         var yAxis = d3.svg.axis().scale(yScale).orient("left").ticks(4);
@@ -135,14 +158,14 @@ function updateBarChart(countryID) {
                     .attr("height", function(){return height - yScale(entry.Count);}).attr("fill", '#4F75B4');
                 }
                 else {
-                    d3.select("#b" + entry.Year).transition().attr("y", function(){return yScale(maxCount);})
+                    d3.select("#b" + entry.Year).attr("y", function(){return yScale(maxCount);})
                     .attr("height", function(){return height - yScale(maxCount);}).attr('fill', 'rgba(200,200,200,0.5)');
                 }
             } 
         }
+
+        
     });
 }
-updateMap(2010);
-d3.select
 
 
