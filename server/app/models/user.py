@@ -41,6 +41,18 @@ class Role(db.Model):
     def __repr__(self):
         return '<Role %r>' % self.name
 
+class Orgnization(db.Model):
+    __tablename__ = "orgnizations"
+    id = db.Column(db.Integer, primary_key=True)
+    email = db.Column(db.String(64), unique=True, index=True)
+    name = db.Column(db.String(128), unique=True, index=True)
+    city = db.Column(db.String(64), index=True)
+    country = db.Column(db.String(64), index=True)
+    counselling = db.Column(db.Boolean(), default=False)
+    financial = db.Column(db.Boolean(), default=False)
+    legal = db.Column(db.Boolean(), default=False)
+    safehouse = db.Column(db.Boolean(), default=False)
+
 class User(db.Model, UserMixin):
     __tablename__ = 'users'
     id = db.Column(db.Integer, primary_key=True)
