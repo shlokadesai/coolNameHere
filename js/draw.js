@@ -27,11 +27,19 @@ var map = new Datamap({
 
 function updateMap(year) {
     var dataset = {};
-    d3.csv("data/csv/cpi" + year + ".csv", function(data){
+    d3.csv("data/rapeDataTest.csv", function(data){
+        var max = d3.max(data, function(row){
+            return row.Count;
+        });
+        console.log(max);
+        var colorScaleGYR = d3.scale.linear().domain([-1,0,max/2,max]).range(['rgba(200,200,200,0.5)',"#ffeda0","#feb24c", "#f03b20"]);
         for (i = 0; i < data.length; i++) {
-            dataset[data[i].ID] = colorScale(data[i].CPI);
-            mapData[data[i].ID] = data[i].CPI;
-            //console.log(dataset);
+            if(data[i].Year == year)
+            {
+                dataset[data[i].ID] = colorScaleGYR(data[i].Count);
+                mapData[data[i].ID] = data[i].Count;
+            }
+            console.log(dataset);
         }
         map.updateChoropleth(dataset);
     });
@@ -90,7 +98,7 @@ function drawBarChart(countryID) {
 }
 
 
-drawBarChart("USA");
+//drawBarChart("USA");
 updateMap(2011);
 
 
