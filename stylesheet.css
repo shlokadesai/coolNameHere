@@ -46,17 +46,16 @@ body {
 	100%	{opacity: 0;}
 }
 
+svg {
+	margin: 20px;
+}
+
 #slide1 {
 	opacity: 0;
 	background: url(images/Slide1.JPG) no-repeat center center fixed;
 	position: absolute;
 	left: 0px;
 	top: 0px;
-svg {
-	margin: 20px;
-}
-
-html {
 	background: url(images/Slide1.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	background-size:cover;
