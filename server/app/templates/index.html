@@ -2,10 +2,13 @@
 {% import "bootstrap/wtf.html" as wtf %}
 
 {% block page %}
-<div class="page-header">
-	<h1>Hello, {% if name %} {{ name }} {% else %} Stranger {% endif %} !</h1>
+<div class="col-sm-8">
+    {{ wtf.quick_form(victimForm) }}
 </div>
-{{ wtf.quick_form(form) }}
+<div class="container col-sm-4">
+    <a href="#" class="btn btn-default btn-lg btn-block">Block level button</a>
+    <a href="#" class="btn btn-default btn-lg btn-block">Block level button</a>
+</div>
 
-
+</div>
 {% endblock %}
